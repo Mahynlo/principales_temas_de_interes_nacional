@@ -1,0 +1,3562 @@
+{
+{
+"Título": "Caminos pavimentados comunicarán todas las cabeceras municipales de Oaxaca: presidente",
+"Fecha": "16.04.2023"
+},
+{
+"Título": "Carretera Oaxaca-Puerto Escondido se inaugurará en julio, anuncia presidente",
+"Fecha": "16.04.2023"
+},
+{
+"Título": "Presidente reafirma compromiso de heredar sistema de salud de calidad en México; llama a jubilados a participar",
+"Fecha": "16.04.2023"
+},
+{
+"Título": "Presidente supervisa autopista de Oaxaca al Istmo de Tehuantepec",
+"Fecha": "16.04.2023"
+},
+{
+"Título": "Plan de Salud IMSS Bienestar opera en 20 estados; se trabaja para alcanzar cobertura nacional: presidente",
+"Fecha": "16.04.2023"
+},
+{
+"Título": "Antes de terminar administración, sistema de salud será de calidad y gratuito para todos, afirma presidente en Zacatecas",
+"Fecha": "16.04.2023"
+},
+{
+"Título": "Gobierno de México procura crecimiento justo en todo el país, afirma presidente",
+"Fecha": "16.04.2023"
+},
+{
+"Título": "Abasto de agua en zona conurbada de San Luis Potosí está garantizado, afirma presidente",
+"Fecha": "16.04.2023"
+},
+{
+"Título": "Presidente recibe visita de Jeremy Corbyn en Palacio Nacional",
+"Fecha": "16.04.2023"
+},
+{
+"Título": "Nuevo Laredo será sede de la Aduana Nacional, anuncia presidente",
+"Fecha": "16.04.2023"
+},
+{
+"Título": "Países atenderán tráfico de drogas y control de armas a partir de cooperación, no del sometimiento, afirma presidente",
+"Fecha": "12.04.2023"
+},
+{
+"Título": "Departamento de Justicia de Estados Unidos devolverá 4.8 mil millones de pesos desviados por exfuncionario de Coahuila",
+"Fecha": "12.04.2023"
+},
+{
+"Título": "COVID-19 registra 14 semanas de reducción estable en México",
+"Fecha": "12.04.2023"
+},
+{
+"Título": "Rehabilitación de quirófanos aumenta número de cirugías en once estados por Plan de Salud IMSS Bienestar",
+"Fecha": "12.04.2023"
+},
+{
+"Título": "Secretaría de Salud presenta segmento informativo de prevención de adicciones; alertan sobre daños por fentanilo",
+"Fecha": "12.04.2023"
+},
+{
+"Título": "Presidente se reúne en Palacio Nacional con el padre Solalinde para tratar migración",
+"Fecha": "12.04.2023"
+},
+{
+"Título": "Gabinete de Seguridad dialogará en Estados Unidos sobre fentanilo y armas: presidente",
+"Fecha": "12.04.2023"
+},
+{
+"Título": "Tramo 4 del Tren Maya privilegia cuidado del ambiente de Yucatán y Quintana Roo",
+"Fecha": "12.04.2023"
+},
+{
+"Título": "Terminados, 200 kilómetros de vía doble electrificada en tramo 4 del Tren Maya; avanza ejecución de proyectos estratégicos en Cancún",
+"Fecha": "12.04.2023"
+},
+{
+"Título": "Conferencias matutinas continuarán, afirma presidente; “todos tenemos derecho a estar informados”, asegura",
+"Fecha": "12.04.2023"
+},
+{
+"Título": "Presidente encabeza primera sesión virtual de la Alianza de Países de América Latina y el Caribe Contra la Inflación",
+"Fecha": "05.04.2023"
+},
+{
+"Título": "Alianza de Países de América Latina y el Caribe Contra la Inflación construye soluciones a favor de los pueblos",
+"Fecha": "05.04.2023"
+},
+{
+"Título": "Compra de 13 plantas de generación de energía a Iberdrola generará precios justos a consumidores, afirma presidente",
+"Fecha": "05.04.2023"
+},
+{
+"Título": "Presidente encabezará reunión virtual con líderes de Latinoamérica para enfrentar juntos carestía; baja la inflación en México",
+"Fecha": "05.04.2023"
+},
+{
+"Título": "Más de un millón de familias convierten a pesos su crédito Infonavit; Fovissste ofrece soluciones en vivienda a derechohabientes",
+"Fecha": "05.04.2023"
+},
+{
+"Título": "Presidente anuncia compra de plantas de generación de energía eléctrica a Iberdrola; crece patrimonio y autosuficiencia energética",
+"Fecha": "05.04.2023"
+},
+{
+"Título": "San Luis Potosí y Tlaxcala se integran al Programa de regularización de vehículos de procedencia extranjera",
+"Fecha": "05.04.2023"
+},
+{
+"Título": "Presidente fomenta cooperación internacional para acabar con pandemia del fentanilo",
+"Fecha": "05.04.2023"
+},
+{
+"Título": "Sin daños por sismo de 5.5 en Oaxaca: presidente",
+"Fecha": "05.04.2023"
+},
+{
+"Título": "Presidente recibe en Palacio Nacional a Mariano Rivera, leyenda del béisbol",
+"Fecha": "05.04.2023"
+},
+{
+"Título": "Gobierno de México reconoce a gasolineras y tienda de autoservicio por procurar precios en beneficio del pueblo",
+"Fecha": "03.04.2023"
+},
+{
+"Título": "INAH protege sitios arqueológicos de Ruta Puuc en tramo 3 del Tren Maya",
+"Fecha": "03.04.2023"
+},
+{
+"Título": "CFE avanza en consolidación de proyectos de electrificación en ruta del Tren Maya",
+"Fecha": "03.04.2023"
+},
+{
+"Título": "Presidente concluye reuniones estatales del Banco del Bienestar en todo el país",
+"Fecha": "03.04.2023"
+},
+{
+"Título": "Presidente destaca cumplimiento de compromisos de infraestructura en Nayarit; SICT concluye carretera Tepic-Guadalupe Ocotán",
+"Fecha": "03.04.2023"
+},
+{
+"Título": "Presidente supervisa atención médica a migrantes víctimas de incendio en Chihuahua",
+"Fecha": "03.04.2023"
+},
+{
+"Título": "Presidente anuncia creación de consejo para proteger migrantes y reforma al Instituto Nacional de Migración",
+"Fecha": "03.04.2023"
+},
+{
+"Título": "Presidente garantiza atención médica a migrantes heridos en incendio de albergue en Chihuahua",
+"Fecha": "03.04.2023"
+},
+{
+"Título": "México tiene estabilidad financiera y política: presidente",
+"Fecha": "03.04.2023"
+},
+{
+"Título": "Presidente se reúne con campeona mexicana de artes marciales mixtas, Alexa Grasso",
+"Fecha": "03.04.2023"
+},
+{
+"Título": "Presidente participa en Cumbre por la Democracia 2023; llama a que sea verdadera y triunfe sobre el poder",
+"Fecha": "29.03.2023"
+},
+{
+"Título": "Familias mexicanas son atendidas con Programas para el Bienestar, destaca presidente",
+"Fecha": "29.03.2023"
+},
+{
+"Título": "Presidente envía condolencias a familiares de víctimas en Chihuahua; garantiza investigación a fondo del incendio en albergue de migrantes",
+"Fecha": "29.03.2023"
+},
+{
+"Título": "Aumenta cobertura de médicos especialistas y abasto de medicamentos en estados incorporados al Plan de Salud IMSS Bienestar",
+"Fecha": "29.03.2023"
+},
+{
+"Título": "México recupera 43 piezas arqueológicas devueltas por Italia; alertan sobre próxima subasta del patrimonio cultural en Francia",
+"Fecha": "29.03.2023"
+},
+{
+"Título": "Presidente lamenta fallecimiento de migrantes en albergue de Ciudad Juárez; Gobierno de México atiende caso",
+"Fecha": "29.03.2023"
+},
+{
+"Título": "Presidente comparte carta que Pedro Castillo le envió desde prisión en Perú",
+"Fecha": "29.03.2023"
+},
+{
+"Título": "Agua de terrenos del AIFA abastecerá a Ciudad de México y Estado de México",
+"Fecha": "29.03.2023"
+},
+{
+"Título": "Pruebas en vías férreas del Tren Maya podrían iniciar en abril, anuncia presidente",
+"Fecha": "29.03.2023"
+},
+{
+"Título": "Ejidos y comunidades participan en consolidación del corredor biológico en tramo 2 del Tren Maya",
+"Fecha": "29.03.2023"
+},
+{
+"Título": "Tramo 2 del Tren Maya genera 12 mil empleos en Campeche; avanzan más de 700 obras complementarias",
+"Fecha": "27.03.2023"
+},
+{
+"Título": "Terminados, 600 kilómetros de terracerías del Tren Maya; presidente supervisa tramos 2 y 3",
+"Fecha": "27.03.2023"
+},
+{
+"Título": "Tren Maya es un sueño que pronto será realidad: presidente; constata avances en tramos 4 y 5",
+"Fecha": "27.03.2023"
+},
+{
+"Título": "Gobierno de México no permitirá explotación desmedida de recursos: presidente",
+"Fecha": "27.03.2023"
+},
+{
+"Título": "México se convierte en potencia económica con dimensión social, asegura presidente",
+"Fecha": "27.03.2023"
+},
+{
+"Título": "Presidente destaca amistad y puntos de coincidencia con sector empresarial",
+"Fecha": "27.03.2023"
+},
+{
+"Título": "Gobierno realiza trabajos de inteligencia para garantizar paz y tranquilidad, afirma presidente",
+"Fecha": "27.03.2023"
+},
+{
+"Título": "Decretos reforzarán medidas de protección del ambiente, afirma presidente",
+"Fecha": "27.03.2023"
+},
+{
+"Título": "Presidente anuncia nueva ampliación del Programa de regularización de vehículos de procedencia extranjera",
+"Fecha": "27.03.2023"
+},
+{
+"Título": "Sedena y Semar refuerzan medidas para frenar ingreso de fentanilo y metanfetamina a México",
+"Fecha": "27.03.2023"
+},
+{
+"Título": "Resultados positivos en seguridad avalan estrategia del gobierno federal, afirma presidente; homicidio doloso y secuestro mantienen reducción en febrero",
+"Fecha": "22.03.2023"
+},
+{
+"Título": "Presidente anuncia soluciones para garantizar el abasto de agua en la Zona Metropolitana Del Valle de México",
+"Fecha": "22.03.2023"
+},
+{
+"Título": "Ideales del presidente Juárez están vigentes en relación México-Estados Unidos, asegura presidente",
+"Fecha": "22.03.2023"
+},
+{
+"Título": "Palabras del presidente Andrés Manuel López Obrador en el 217 Aniversario del Natalicio de Benito Juárez, desde Guelatao, Oaxaca",
+"Fecha": "22.03.2023"
+},
+{
+"Título": "Atención médica está garantizada en comunidades cercanas al Corredor Interoceánico del Istmo de Tehuantepec",
+"Fecha": "22.03.2023"
+},
+{
+"Título": "Estrategia de atención al pueblo en Oaxaca reduce delitos de impacto",
+"Fecha": "22.03.2023"
+},
+{
+"Título": "Corredor Interoceánico del Istmo de Tehuantepec lleva desarrollo económico y oportunidades al sureste",
+"Fecha": "22.03.2023"
+},
+{
+"Título": "Mejoramiento de zonas arqueológicas y protección de áreas naturales son fundamentales en obra del Tren Maya",
+"Fecha": "22.03.2023"
+},
+{
+"Título": "Es tiempo del sureste del país, afirma presidente; en tramo 1 del Tren Maya se construyen más de 500 obras complementarias",
+"Fecha": "22.03.2023"
+},
+{
+"Título": "Chiapas mantiene tendencia a la baja en incidencia delictiva",
+"Fecha": "22.03.2023"
+},
+{
+"Título": "Presidente sostiene reunión con legisladores e integrantes del gobierno de Estados Unidos",
+"Fecha": "19.03.2023"
+},
+{
+"Título": "Política de atención al pueblo genera resultados positivos en México, afirma presidente; apoyo popular consolidará primera etapa de transformación",
+"Fecha": "19.03.2023"
+},
+{
+"Título": "Cuarta Transformación ha garantizado soberanía, afirma presidente en 85 Aniversario de la Expropiación Petrolera",
+"Fecha": "19.03.2023"
+},
+{
+"Título": "Jamás permitiremos que violen nuestra soberanía y pisoteen la dignidad de nuestra patria: presidente",
+"Fecha": "19.03.2023"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en los 85 Años de la Expropiación Petrolera",
+"Fecha": "19.03.2023"
+},
+{
+"Título": "4T recupera soberanía energética con trabajadores de Pemex, afirma presidente",
+"Fecha": "19.03.2023"
+},
+{
+"Título": "En julio, refinería Dos Bocas iniciará producción de gasolinas, anuncia presidente",
+"Fecha": "19.03.2023"
+},
+{
+"Título": "Lázaro Cárdenas Batel deja Coordinación de Asesores de Presidencia para integrarse a la CELAC, confirma presidente",
+"Fecha": "19.03.2023"
+},
+{
+"Título": "Tabasco reduce incidencia delictiva; generación de empleos y Programas para el Bienestar impulsan desarrollo en el estado: presidente",
+"Fecha": "19.03.2023"
+},
+{
+"Título": "Presidente enumera en Convención Bancaria las diez fortalezas de México en materia económica",
+"Fecha": "19.03.2023"
+},
+{
+"Título": "Refinería Madero producirá a finales de 2023 más de 80 mil barriles diarios de combustibles",
+"Fecha": "16.03.2023"
+},
+{
+"Título": "Presidente se compromete a fortalecer atención a personas con discapacidad",
+"Fecha": "16.03.2023"
+},
+{
+"Título": "Con rescate de la industria petrolera, México avanza a la autosuficiencia energética: presidente",
+"Fecha": "16.03.2023"
+},
+{
+"Título": "Presidente propone alternativa para prohibir importación de fentanilo de uso médico",
+"Fecha": "16.03.2023"
+},
+{
+"Título": "Más de 4 mil especialistas se integran a IMSS Bienestar; gobierno convoca a jubilados a fortalecer sistema de salud",
+"Fecha": "16.03.2023"
+},
+{
+"Título": "Gobierno de México incluye medicina tradicional en Plan de Salud IMSS Bienestar",
+"Fecha": "16.03.2023"
+},
+{
+"Título": "COVID-19 en México continúa tendencia de reducción: Secretaría de Salud",
+"Fecha": "16.03.2023"
+},
+{
+"Título": "México continuará cooperación con Estados Unidos, pero sin subordinación: presidente",
+"Fecha": "16.03.2023"
+},
+{
+"Título": "México es más seguro que Estados Unidos: presidente; atención a las causas de la violencia promueve la paz, afirma",
+"Fecha": "16.03.2023"
+},
+{
+"Título": "Presidente celebra triunfo de Selección Mexicana de Béisbol contra Estados Unidos en el Clásico Mundial",
+"Fecha": "16.03.2023"
+},
+{
+"Título": "INAH rescatará más de 11 mil vestigios en tramo 7 del Tren Maya; concluyen trabajos de prospección en toda la ruta",
+"Fecha": "13.03.2023"
+},
+{
+"Título": "Presidente lamenta fallecimiento del primer actor, Ignacio López Tarso",
+"Fecha": "13.03.2023"
+},
+{
+"Título": "Presidente supervisa la futura ruta electrificada del Tren Maya",
+"Fecha": "13.03.2023"
+},
+{
+"Título": "Consulados de México exhibirán intenciones electoreras de republicanos en Estados Unidos, anuncia presidente",
+"Fecha": "13.03.2023"
+},
+{
+"Título": "Sedena realiza labores de inteligencia para brindar seguridad a la población, afirma presidente",
+"Fecha": "13.03.2023"
+},
+{
+"Título": "Presidente supervisa con autoridades de EE.UU. tráfico de armas y fentanilo; respetarán soberanía de México, afirma",
+"Fecha": "13.03.2023"
+},
+{
+"Título": "Gobierno de México reclama bienes de procedencia ilícita de Genaro García Luna; UIF revela operaciones financieras",
+"Fecha": "13.03.2023"
+},
+{
+"Título": "Presidente celebra diálogo entre Gobierno de México y Organización de Países Exportadores de Petróleo",
+"Fecha": "13.03.2023"
+},
+{
+"Título": "Presidente presenta búnker de simulación de García de Luna; “ejemplo de prepotencia y excesos”, afirma",
+"Fecha": "13.03.2023"
+},
+{
+"Título": "México no permitirá intervención de Estados Unidos: presidente; reprueba iniciativa de republicanos",
+"Fecha": "13.03.2023"
+},
+{
+"Título": "Presidente da seguimiento a proyectos con Tesla",
+"Fecha": "08.03.2023"
+},
+{
+"Título": "La Cuarta Transformación es feminista, afirma presidente en Día Internacional de las Mujeres",
+"Fecha": "08.03.2023"
+},
+{
+"Título": "Presidente demanda transparentar fideicomisos del INE y Poder Judicial de la Federación",
+"Fecha": "08.03.2023"
+},
+{
+"Título": "Mujeres son motor de la transformación: presidente; líder de maquinistas del Tren Maya será la primera en conducirlo, anuncia",
+"Fecha": "08.03.2023"
+},
+{
+"Título": "Gobierno de México propone análisis de maíz transgénico para conocer impacto en la salud: presidente",
+"Fecha": "08.03.2023"
+},
+{
+"Título": "Secretaría de Seguridad presenta convocatoria del Servicio de Protección Federal",
+"Fecha": "08.03.2023"
+},
+{
+"Título": "Presidente exhibirá búnker de simulación de Genaro García Luna",
+"Fecha": "08.03.2023"
+},
+{
+"Título": "Programas para el Bienestar benefician a más de tres millones de derechohabientes en estados de la ruta del Tren Maya",
+"Fecha": "08.03.2023"
+},
+{
+"Título": "Región Gran Calakmul será la segunda reserva de selva tropical más grande del mundo, afirma titular de Semarnat en informe del Tren Maya",
+"Fecha": "08.03.2023"
+},
+{
+"Título": "Presidente se compromete a consolidar Banco del Bienestar en todo el país en cinco meses",
+"Fecha": "08.03.2023"
+},
+{
+"Título": "Este año concluirá construcción de El Cuchillo, acueducto La Laguna y El Zapotillo para llevar agua al norte, afirma presidente",
+"Fecha": "04.03.2023"
+},
+{
+"Título": "Presidente invita a conmemorar en el Zócalo el 85 aniversario de la Expropiación Petrolera",
+"Fecha": "04.03.2023"
+},
+{
+"Título": "Democracia y respeto al voto están garantizados en modificaciones a la Ley Electoral: presidente",
+"Fecha": "04.03.2023"
+},
+{
+"Título": "Reformas a Ley Electoral reducen privilegios de altos funcionarios del INE, afirma presidente",
+"Fecha": "04.03.2023"
+},
+{
+"Título": "Presidente propone a mandatarios de América Latina cooperación para hacer frente a inflación",
+"Fecha": "04.03.2023"
+},
+{
+"Título": "Decreto presidencial garantizará permanencia del Plan de seguridad social a periodistas independientes",
+"Fecha": "04.03.2023"
+},
+{
+"Título": "Presidente celebra fortaleza del peso en sexenio de la Cuarta Transformación",
+"Fecha": "04.03.2023"
+},
+{
+"Título": "Presidente impulsa plan antiinflacionario de ayuda mutua para fomentar intercambio con América Latina",
+"Fecha": "04.03.2023"
+},
+{
+"Título": "Gobierno trabaja en beneficio del pueblo, afirma presidente en reporte de Programas para el Bienestar; llegan a más de 25 millones de personas",
+"Fecha": "04.03.2023"
+},
+{
+"Título": "México tiene la confianza de inversionistas, afirma presidente; llega al AIFA primer vuelo de carga",
+"Fecha": "04.03.2023"
+},
+{
+"Título": "Plan de Salud IMSS Bienestar incentivará a médicos especialistas para trabajar en comunidades rurales",
+"Fecha": "28.02.2023"
+},
+{
+"Título": "Secretaría de Salud reafirma: vacunación es fundamental para reducir daños por COVID-19",
+"Fecha": "28.02.2023"
+},
+{
+"Título": "Tesla llegará a Nuevo León con el compromiso de garantizar agua a la población: presidente",
+"Fecha": "28.02.2023"
+},
+{
+"Título": "Tren Maya impulsa formación académica y profesional en el sureste del país",
+"Fecha": "28.02.2023"
+},
+{
+"Título": "Tren Maya detona desarrollo del sureste con proyectos integrales de infraestructura",
+"Fecha": "28.02.2023"
+},
+{
+"Título": "Modernidad del Tren Maya se combina con intensa labor del Programa de Mejoramiento de Zonas Arqueológicas: INAH",
+"Fecha": "28.02.2023"
+},
+{
+"Título": "Compra de boletos del Tren Maya será ágil; costo está por definirse",
+"Fecha": "28.02.2023"
+},
+{
+"Título": "Pueblo del sureste se apropia del Tren Maya, afirma presidente",
+"Fecha": "28.02.2023"
+},
+{
+"Título": "Mexicanos se reconocen en Bandera Nacional aun en las diferencias, afirma presidente",
+"Fecha": "28.02.2023"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en el Día de la Bandera",
+"Fecha": "28.02.2023"
+},
+{
+"Título": "Gobierno de México fomenta inversión con visión sustentable: presidente; no se otorgarán permisos donde no hay agua, afirma",
+"Fecha": "24.02.2023"
+},
+{
+"Título": "Presidente rinde homenaje a Francisco I. Madero en el 110 Aniversario Luctuoso",
+"Fecha": "24.02.2023"
+},
+{
+"Título": "Rescate de mineros en Coahuila podría concluir en diciembre de 2023, afirma presidente",
+"Fecha": "24.02.2023"
+},
+{
+"Título": "Principales beneficiarias de los Programas para el Bienestar son mujeres; Gobierno de México impulsa igualdad de género",
+"Fecha": "24.02.2023"
+},
+{
+"Título": "Desbloqueo de cuentas de García Luna es un agravio del Poder Judicial, afirma presidente",
+"Fecha": "24.02.2023"
+},
+{
+"Título": "México garantiza derecho de asilo a quien lo solicite: presidente; fija postura ante situación en Nicaragua",
+"Fecha": "24.02.2023"
+},
+{
+"Título": "Incidencia delictiva se mantiene a la baja; Tianguis del Bienestar y regularización de vehículos benefician a comunidades",
+"Fecha": "24.02.2023"
+},
+{
+"Título": "Presidente celebra 90 años de Banobras; institución contribuye a obras estratégicas de la Cuarta Transformación",
+"Fecha": "24.02.2023"
+},
+{
+"Título": "Presidente dialoga sobre migración, seguridad y comercio con legisladores de Estados Unidos",
+"Fecha": "24.02.2023"
+},
+{
+"Título": "Empresas no deben comprometer abasto de agua para uso doméstico: presidente; es necesario descentralizar desarrollo y ordenar crecimiento, afirma",
+"Fecha": "24.02.2023"
+},
+{
+"Título": "Sedena impulsa desarrollo de obras estratégicas en el sureste; presentan reporte semanal de tramos 5,6 y 7 del Tren Maya",
+"Fecha": "20.02.2023"
+},
+{
+"Título": "Vialidad Principal mejora conectividad hacia el Aeropuerto Internacional Felipe Ángeles",
+"Fecha": "20.02.2023"
+},
+{
+"Título": "Presidente destaca labor del Ejército Mexicano en construcción de paz y bienestar del pueblo; conmemora 110 aniversario",
+"Fecha": "20.02.2023"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en el Día del Ejército Mexicano",
+"Fecha": "20.02.2023"
+},
+{
+"Título": "Presidente constata avances del Plan de Justicia para el Pueblo Yaqui; agua y restitución de tierras son prioridad, indica",
+"Fecha": "20.02.2023"
+},
+{
+"Título": "Presidente decreta nacionalización del litio",
+"Fecha": "20.02.2023"
+},
+{
+"Título": "Presidente inaugura modernización del camino Agua Prieta-Bavispe en Sonora; anuncia carretera a Nuevo Casas Grandes",
+"Fecha": "20.02.2023"
+},
+{
+"Título": "Presidente supervisa obras conjuntas con gobierno de Estados Unidos en Nogales, Sonora",
+"Fecha": "20.02.2023"
+},
+{
+"Título": "Presidente inaugura primera etapa de la Central Fotovoltaica Puerto Peñasco en Sonora",
+"Fecha": "20.02.2023"
+},
+{
+"Título": "Sonora es de los estados más atendidos por el Gobierno de México, afirma presidente",
+"Fecha": "20.02.2023"
+},
+{
+"Título": "Presidente inaugura Camino Tonanitla al AIFA; será libre de cuota",
+"Fecha": "16.02.2023"
+},
+{
+"Título": "Presidente podría demandar por daño moral al abogado de Genaro García Luna; donará recursos de reparación a víctimas de Felipe Calderón",
+"Fecha": "16.02.2023"
+},
+{
+"Título": "Museo Arqueológico del Puuc expondrá hallazgos del INAH en ruta del Tren Maya",
+"Fecha": "16.02.2023"
+},
+{
+"Título": "Federación declarará áreas naturales protegidas predios de Fonatur; sexenio concluirá con más de un millón de áreas de conservación",
+"Fecha": "16.02.2023"
+},
+{
+"Título": "CFE Internet para Todos conectará este año a todas las cabeceras municipales del país; beneficiará a 20 millones de mexicanos",
+"Fecha": "16.02.2023"
+},
+{
+"Título": "Baja California y Tabasco inician diagnóstico para adherirse al Plan de Salud IMSS Bienestar",
+"Fecha": "16.02.2023"
+},
+{
+"Título": "Brigada de rescate en Turquía alista regreso a México; donación de víveres rebasa meta",
+"Fecha": "16.02.2023"
+},
+{
+"Título": "Secretaría de Salud alerta sobre efectos de clonazepam en niñas, niños y adolescentes que hacen reto viral de TikTok",
+"Fecha": "16.02.2023"
+},
+{
+"Título": "COVID-19 en México registra seis semanas consecutivas de reducción",
+"Fecha": "16.02.2023"
+},
+{
+"Título": "México donará 6 millones de dólares a Siria para ayudar a atender emergencia por sismos",
+"Fecha": "16.02.2023"
+},
+{
+"Título": "Tren Maya genera más de seis mil empleos locales en tramo 5 sur",
+"Fecha": "13.02.2023"
+},
+{
+"Título": "Flora y fauna en tramo 5 del Tren Maya están protegidas a través de obras y creación de Áreas Naturales Protegidas",
+"Fecha": "13.02.2023"
+},
+{
+"Título": "Sistema de salud pública se consolidará este año con apoyo de médicos de Cuba: presidente",
+"Fecha": "13.02.2023"
+},
+{
+"Título": "Fotogalería. Visita del presidente de Cuba a México",
+"Fecha": "13.02.2023"
+},
+{
+"Título": "Presidente reitera llamado a EE.UU. a levantar bloqueo a Cuba en entrega de Condecoración del Águila Azteca a Miguel Díaz-Canel",
+"Fecha": "13.02.2023"
+},
+{
+"Título": "México y Cuba fortalecen lazos de cooperación durante encuentro en Campeche",
+"Fecha": "13.02.2023"
+},
+{
+"Título": "Presidente pronostica baja de la inflación en México",
+"Fecha": "13.02.2023"
+},
+{
+"Título": "Palabras del presidente Andrés Manuel López Obrador en el Día de la Fuerza Aérea Mexicana, desde Zapopan, Jalisco",
+"Fecha": "13.02.2023"
+},
+{
+"Título": "Capacidades de la Fuerza Aérea Mexicana se destinan a salvar vidas y beneficiar al pueblo, afirma presidente",
+"Fecha": "13.02.2023"
+},
+{
+"Título": "México, uno de los primeros países en llegar a Turquía para brindar ayuda humanitaria: presidente",
+"Fecha": "13.02.2023"
+},
+{
+"Título": "50 cuarteles de la Guardia Nacional garantizarán paz y tranquilidad en Jalisco",
+"Fecha": "10.02.2023"
+},
+{
+"Título": "Presidente conmemora 110 Aniversario de la Marcha de la Lealtad en Centro Histórico de la Ciudad de México",
+"Fecha": "10.02.2023"
+},
+{
+"Título": "Santa Lucía será centro de acopio para enviar víveres a Turquía y Siria",
+"Fecha": "10.02.2023"
+},
+{
+"Título": "Créditos de vivienda con visión social ayudan a superar rezago habitacional en México",
+"Fecha": "10.02.2023"
+},
+{
+"Título": "Gobierno de México alista licitaciones de parques industriales del Istmo de Tehuantepec",
+"Fecha": "10.02.2023"
+},
+{
+"Título": "Espacio en Chapultepec dedicado a la naturaleza y cultura será el más importante de México: presidente",
+"Fecha": "10.02.2023"
+},
+{
+"Título": "Misiones de ayuda humanitaria de México llegan a Chile y Turquía",
+"Fecha": "10.02.2023"
+},
+{
+"Título": "Más de 4 mil personas acceden a preliberaciones y amnistías",
+"Fecha": "10.02.2023"
+},
+{
+"Título": "Presidente inaugurará ruta libre hacia el AIFA en el Estado de México",
+"Fecha": "10.02.2023"
+},
+{
+"Título": "Infraestructura del AIFA tiene capacidad para recibir más de 400 mil toneladas de carga",
+"Fecha": "10.02.2023"
+},
+{
+"Título": "México envía a Chile ayuda de especialistas en control de incendios",
+"Fecha": "06.02.2023"
+},
+{
+"Título": "Comunidades del tramo 4 del Tren Maya acceden a Programas para el Bienestar",
+"Fecha": "06.02.2023"
+},
+{
+"Título": "Tren Maya genera desarrollo en el sureste con obras complementarias; tramo 4 incluye hasta 192 proyectos",
+"Fecha": "06.02.2023"
+},
+{
+"Título": "Presidente destaca reformas impulsadas por la 4T en beneficio del pueblo; conmemora 106 Aniversario de la Constitución",
+"Fecha": "06.02.2023"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en el 106 Aniversario de la Promulgación de la Constitución de 1917, desde Querétaro",
+"Fecha": "06.02.2023"
+},
+{
+"Título": "Hay relevo generacional, afirma presidente al encabezar reuniones estatales del Banco del Bienestar",
+"Fecha": "06.02.2023"
+},
+{
+"Título": "Producción de vehículos eléctricos en San Luis Potosí se traduce en confianza de inversionistas en el país: presidente",
+"Fecha": "06.02.2023"
+},
+{
+"Título": "Decreto sobre vuelos de carga dará tiempo a empresas para mudarse al AIFA: presidente",
+"Fecha": "06.02.2023"
+},
+{
+"Título": "Programas para el Bienestar y remesas fortalecen economía de México; envíos de paisanos alcanzan récord en 2022: presidente",
+"Fecha": "06.02.2023"
+},
+{
+"Título": "Becas para estudiantes de educación media superior reducen deserción escolar, resalta presidente",
+"Fecha": "06.02.2023"
+},
+{
+"Título": "Incrementan vuelos en el AIFA por traslado voluntario de aerolíneas, destaca presidente",
+"Fecha": "01.02.2023"
+},
+{
+"Título": "Presidente recibe en Palacio Nacional al economista griego, Yanis Varoufakis",
+"Fecha": "01.02.2023"
+},
+{
+"Título": "A la baja, sexta ola de COVID-19; Secretaría de Salud reporta reducción de casos en todo el país",
+"Fecha": "01.02.2023"
+},
+{
+"Título": "Aumentan consultas de especialidad en estados incorporados al Plan de Salud IMSS Bienestar",
+"Fecha": "01.02.2023"
+},
+{
+"Título": "Tren Maya impulsa histórico despliegue de infraestructura energética en la Península de Yucatán",
+"Fecha": "01.02.2023"
+},
+{
+"Título": "Tren Maya genera empleos y bienestar en localidades del tramo 3",
+"Fecha": "01.02.2023"
+},
+{
+"Título": "Inicia en Morelos Plan de Salud IMSS Bienestar",
+"Fecha": "01.02.2023"
+},
+{
+"Título": "Presidente celebra reuniones de seguimiento del Banco del Bienestar en estados",
+"Fecha": "01.02.2023"
+},
+{
+"Título": "Michoacán es el décimo estado incorporado al Plan de Salud IMSS Bienestar",
+"Fecha": "01.02.2023"
+},
+{
+"Título": "Programa de Mejoramiento Urbano continúa dando resultados en comunidades pobres del país",
+"Fecha": "01.02.2023"
+},
+{
+"Título": "Presidente pronostica baja de la inflación en 2023",
+"Fecha": "27.01.2023"
+},
+{
+"Título": "Preparan documental sobre Centro Turístico Islas Marías",
+"Fecha": "27.01.2023"
+},
+{
+"Título": "Presidente celebra fortaleza del peso y recaudación tributaria en enero",
+"Fecha": "27.01.2023"
+},
+{
+"Título": "Avanza salvamento arqueológico en ruta del Tren Maya; sitios turísticos mostrarán riqueza cultural del sureste",
+"Fecha": "27.01.2023"
+},
+{
+"Título": "85 Aniversario de Expropiación Petrolera se conmemorará con fiesta en el Zócalo por rescate de Pemex, anuncia presidente",
+"Fecha": "27.01.2023"
+},
+{
+"Título": "Necesario que se conozca caso de Genaro García Luna para evitar repetición, afirma presidente; gobierno informará diario sobre juicio en EE.UU.",
+"Fecha": "27.01.2023"
+},
+{
+"Título": "América debe unirse, reafirma presidente en mensaje a la CELAC; rechaza actos antidemocráticos en Brasil y Perú",
+"Fecha": "27.01.2023"
+},
+{
+"Título": "Empresas inician traslado de vuelos de carga hacia el AIFA, anuncia presidente",
+"Fecha": "27.01.2023"
+},
+{
+"Título": "Tren Maya es una hazaña sin precedentes en el mundo: presidente; presentan avances del tramo 2",
+"Fecha": "27.01.2023"
+},
+{
+"Título": "Escárcega, en Campeche, albergará estación y talleres del Tren Maya: presidente",
+"Fecha": "27.01.2023"
+},
+{
+"Título": "Presidente destaca belleza de Yucatán en sobrevuelo de supervisión del Tren Maya",
+"Fecha": "21.01.2023"
+},
+{
+"Título": "Gobierno de México apuesta por la solución a conflictos agrarios; presidente; es asunto de justicia, afirma",
+"Fecha": "21.01.2023"
+},
+{
+"Título": "Guardia Nacional está en el Metro para apoyar a usuarios; Ciudad de México tiene resultados positivos en seguridad",
+"Fecha": "21.01.2023"
+},
+{
+"Título": "Presidente inaugura elemento del proyecto Chapultepec: Naturaleza y Cultura",
+"Fecha": "21.01.2023"
+},
+{
+"Título": "Presidente celebra 80 años del Instituto Mexicano del Seguro Social; agradece compromiso de trabajadores de la salud",
+"Fecha": "21.01.2023"
+},
+{
+"Título": "Presidente recibe en Palacio Nacional a integrantes de la cooperativa Tosepan, de Puebla",
+"Fecha": "21.01.2023"
+},
+{
+"Título": "Utilidades del Tren Maya financiarán pensiones del ISSSTE y de las Fuerzas Armadas, afirma presidente",
+"Fecha": "21.01.2023"
+},
+{
+"Título": "Homicidio doloso, secuestro y robo de combustible a la baja al cierre de 2022",
+"Fecha": "21.01.2023"
+},
+{
+"Título": "Consolidar sistema de salud es prioridad, afirma presidente; Plan de Salud IMSS Bienestar sumará a 12 estados en primer semestre de 2023",
+"Fecha": "21.01.2023"
+},
+{
+"Título": "Inician informes semanales de avances por tramo del Tren Maya, proyecto de desarrollo integral en beneficio del sureste",
+"Fecha": "21.01.2023"
+},
+{
+"Título": "SEP no tiene facultad para anular títulos profesionales: presidente; caso de ministra corresponde a la UNAM",
+"Fecha": "16.01.2023"
+},
+{
+"Título": "Presidente anuncia nombramiento de subsecretario de Seguridad y de comandante de la Guardia Nacional",
+"Fecha": "16.01.2023"
+},
+{
+"Título": "Gobierno de México dialoga con comunidades para terminar construcción del camino Oaxaca-Puerto Escondido",
+"Fecha": "16.01.2023"
+},
+{
+"Título": "Súpercarretera Oaxaca-Tehuantepec estará lista para diciembre de este año: presidente",
+"Fecha": "16.01.2023"
+},
+{
+"Título": "Avanza Plan de apoyo a afectados en Oaxaca por huracán Agatha; continuidad se dará a través de asambleas en 31 municipios",
+"Fecha": "16.01.2023"
+},
+{
+"Título": "Precios de la canasta básica mantienen tendencia a la baja: presidente",
+"Fecha": "16.01.2023"
+},
+{
+"Título": "Guardia Nacional está en el Metro para proteger a usuarios, afirma presidente",
+"Fecha": "16.01.2023"
+},
+{
+"Título": "Embajadoras y cónsules representan con dignidad al país, afirma presidente",
+"Fecha": "16.01.2023"
+},
+{
+"Título": "Gobierno de México atiende con obras y Programas para el Bienestar a comunidades cercanas al Tren Maya: presidente",
+"Fecha": "16.01.2023"
+},
+{
+"Título": "Presidente resalta resultados de la X Cumbre de Líderes de América del Norte",
+"Fecha": "16.01.2023"
+},
+{
+"Título": "México y Canadá refuerzan relación; establecen compromisos en economía, energía y bienestar de pueblos indígenas",
+"Fecha": "11.01.2023"
+},
+{
+"Título": "Presidente recibe visita oficial de Justin Trudeau, primer ministro de Canadá, en Palacio Nacional",
+"Fecha": "11.01.2023"
+},
+{
+"Título": "México logra acuerdos de cooperación para el desarrollo regional en X Cumbre de América del Norte",
+"Fecha": "11.01.2023"
+},
+{
+"Título": "Presidente llama a EE.UU. y Canadá a atender causas de migración; programas de México aplicados en Centroamérica dan resultados",
+"Fecha": "11.01.2023"
+},
+{
+"Título": "Palabras del presidente Andrés Manuel López Obrador en la X Cumbre de Líderes de América del Norte",
+"Fecha": "11.01.2023"
+},
+{
+"Título": "Presidentes de México y Estados Unidos y primer ministro de Canadá se reúnen previo a la X Cumbre de Líderes de América del Norte",
+"Fecha": "11.01.2023"
+},
+{
+"Título": "En diálogo con gobierno de Estados Unidos, presidente AMLO presenta propuesta de integración regional para el desarrollo",
+"Fecha": "11.01.2023"
+},
+{
+"Título": "Presidente recibe en Palacio Nacional a Joseph Biden, presidente de Estados Unidos",
+"Fecha": "11.01.2023"
+},
+{
+"Título": "Palabras del presidente Andrés Manuel López Obrador en la reunión bilateral México-Estados Unidos",
+"Fecha": "11.01.2023"
+},
+{
+"Título": "Presidente da la bienvenida al primer ministro de Canadá, Justin Trudeau, en el Aeropuerto Felipe Ángeles",
+"Fecha": "11.01.2023"
+},
+{
+"Título": "Atender causas de la migración garantiza bienestar a los pueblos de América, afirma presidente",
+"Fecha": "09.01.2023"
+},
+{
+"Título": "Necesaria, integración de países del continente americano en beneficio de los pueblos: presidente",
+"Fecha": "09.01.2023"
+},
+{
+"Título": "Presidente recibe a Joseph Biden en el AIFA",
+"Fecha": "09.01.2023"
+},
+{
+"Título": "Presidente AMLO expresa respaldo a Lula en Brasil tras disturbios en Poder Judicial",
+"Fecha": "09.01.2023"
+},
+{
+"Título": "Avanza colocación de rieles del Tren Maya en tramo de Mérida a Campeche, resalta presidente",
+"Fecha": "09.01.2023"
+},
+{
+"Título": "Puente atirantado Tulum-Cancún protegerá ambiente y sitios arqueológicos: presidente",
+"Fecha": "09.01.2023"
+},
+{
+"Título": "Presidente expresa solidaridad y condolencias por accidente en Línea 3 del Metro de la Ciudad de México",
+"Fecha": "09.01.2023"
+},
+{
+"Título": "Sedena y Guardia Nacional actuaron con responsabilidad para cuidar población de Sinaloa, destaca presidente",
+"Fecha": "09.01.2023"
+},
+{
+"Título": "Presidente expresa solidaridad y apoyo al pueblo de Sinaloa; Gobierno de México trabaja para restablecer orden",
+"Fecha": "09.01.2023"
+},
+{
+"Título": "Presidente participa en Bicentenario del Heroico Colegio Militar",
+"Fecha": "09.01.2023"
+},
+{
+"Título": "SRE confirma programa de X Cumbre de Líderes de América del Norte y reuniones con mandatarios de Estados Unidos y Canadá",
+"Fecha": "05.01.2023"
+},
+{
+"Título": "Gobierno de México realiza histórico rescate del patrimonio arqueológico en antiguas ciudades por construcción del Tren Maya",
+"Fecha": "05.01.2023"
+},
+{
+"Título": "Fertilizantes para el Bienestar se amplía a nivel nacional para beneficiar a 2 millones de productores, anuncia presidente",
+"Fecha": "05.01.2023"
+},
+{
+"Título": "Atención al pueblo, clave en el funcionamiento de la Estrategia Nacional de Seguridad: presidente; Gabinete presenta resultados 2018-2022",
+"Fecha": "05.01.2023"
+},
+{
+"Título": "En 2023 seguirán mejorando condiciones de vida y se sentarán bases de la futura transformación: presidente; pronóstico del año es optimista",
+"Fecha": "05.01.2023"
+},
+{
+"Título": "Cobro de pensiones de personas adultas mayores será ágil y conforme a calendario, anuncia presidente",
+"Fecha": "05.01.2023"
+},
+{
+"Título": "México presente en toma de posesión de Luiz Inácio Lula Da Silva como presidente de Brasil",
+"Fecha": "05.01.2023"
+},
+{
+"Título": "2023 será un buen año, afirma presidente",
+"Fecha": "05.01.2023"
+},
+{
+"Título": "Presidente lamenta fallecimiento del papa en retiro, Benedicto XVI; envía condolencias a la Iglesia Católica",
+"Fecha": "05.01.2023"
+},
+{
+"Título": "Presidente refrenda compromiso de inaugurar Tren Toluca-Ciudad de México en diciembre de 2023",
+"Fecha": "05.01.2023"
+},
+{
+"Título": "Desarrollo con bienestar para el pueblo prevaleció en 2022, destaca presidente al evaluar progreso económico del país",
+"Fecha": "30.12.2022"
+},
+{
+"Título": "Presidente destaca a Pelé como gran futbolista e influyente con su ejemplo tras su fallecimiento",
+"Fecha": "30.12.2022"
+},
+{
+"Título": "Sistema de Alerta Sísmica Mexicano llegará a celulares en 2023: Protección Civil",
+"Fecha": "30.12.2022"
+},
+{
+"Título": "Programa de regularización de autos extranjeros se amplía hasta marzo de 2023, anuncia presidente",
+"Fecha": "30.12.2022"
+},
+{
+"Título": "Presidente anuncia reestructuración de deuda externa para 2025; próximo sexenio pagará la mitad de intereses, afirma",
+"Fecha": "30.12.2022"
+},
+{
+"Título": "Presidente refrenda compromiso de consolidar en 2023 Estado de bienestar y acceso universal a servicios de salud",
+"Fecha": "30.12.2022"
+},
+{
+"Título": "Casos de COVID-19 suman ocho semanas de incremento; hospitalizaciones se mantienen estables",
+"Fecha": "30.12.2022"
+},
+{
+"Título": "Finanzas sanas permiten presupuesto a favor del desarrollo económico, afirma presidente",
+"Fecha": "30.12.2022"
+},
+{
+"Título": "Tren maya comenzará pruebas en julio de 2023: presidente; anuncia compra de terrenos arqueológicos en Uxmal",
+"Fecha": "30.12.2022"
+},
+{
+"Título": "Gobierno de México atiende a la población por bajas de temperaturas y lluvias en el país: presidente",
+"Fecha": "30.12.2022"
+},
+{
+"Título": "Presidente envía mensaje en víspera de Navidad; desea salud y felicidad al pueblo de México",
+"Fecha": "24.12.2022"
+},
+{
+"Título": "Refinería Olmeca producirá 340 mil barriles diarios de crudo en septiembre de 2023: presidente",
+"Fecha": "24.12.2022"
+},
+{
+"Título": "Presidente resalta fortaleza del peso mexicano frente al dólar",
+"Fecha": "24.12.2022"
+},
+{
+"Título": "México tendrá derrama económica excepcional por inversión pública y Programas para el Bienestar: presidente",
+"Fecha": "24.12.2022"
+},
+{
+"Título": "Presidente constata avances en materia de seguridad en Tabasco; delitos de impacto van a la baja",
+"Fecha": "24.12.2022"
+},
+{
+"Título": "Presidente reconoce trabajo de embajador mexicano en Perú",
+"Fecha": "24.12.2022"
+},
+{
+"Título": "Tren maya acercará zonas arqueológicas de Quintana Roo al turismo: presidente",
+"Fecha": "24.12.2022"
+},
+{
+"Título": "Gobierno de México desarrolla sureste del país con inversión y cuidado del ambiente, afirma presidente",
+"Fecha": "24.12.2022"
+},
+{
+"Título": "Estrategia de seguridad en Quintana Roo reduce incidencia delictiva de secuestro y robo a negocios",
+"Fecha": "24.12.2022"
+},
+{
+"Título": "Gobierno de México busca garantizar derechos de extranjeros en el país con modificación al artículo 33: presidente",
+"Fecha": "24.12.2022"
+},
+{
+"Título": "Relación México-Perú se mantendrá: presidente; embajada continuará protegiendo connacionales",
+"Fecha": "21.12.2022"
+},
+{
+"Título": "Presidente llama a donar en Colecta Nacional 2022 de Cruz Roja Mexicana",
+"Fecha": "21.12.2022"
+},
+{
+"Título": "Presidente encabeza reunión con legisladores federales en Palacio Nacional; destaca reformas a favor del pueblo",
+"Fecha": "21.12.2022"
+},
+{
+"Título": "Gobierno de México impulsa crecimiento económico con mejor distribución de la riqueza, destaca presidente",
+"Fecha": "21.12.2022"
+},
+{
+"Título": "Noviembre registró baja incidencia en secuestro; Estrategia Nacional de Seguridad fomenta la paz: presidente",
+"Fecha": "21.12.2022"
+},
+{
+"Título": "X Cumbre de Líderes de América del Norte abordará migración, cambio climático y seguridad",
+"Fecha": "21.12.2022"
+},
+{
+"Título": "Presidente supervisa avances del Banco del Bienestar con gobernadores",
+"Fecha": "21.12.2022"
+},
+{
+"Título": "Presidente recibe a comitiva de Aptiv; darán continuidad a inversiones en el país, afirma",
+"Fecha": "21.12.2022"
+},
+{
+"Título": "Gobierno busca mejorar servicio aéreo; prioriza diálogo con empresas, afirma presidente",
+"Fecha": "21.12.2022"
+},
+{
+"Título": "Presidente garantiza constitucionalidad de reformas en materia electoral a favor de la democracia",
+"Fecha": "21.12.2022"
+},
+{
+"Título": "No habrá cuesta de enero gracias a medidas antiinflación e incremento en pensiones a adultos mayores: presidente",
+"Fecha": "19.12.2022"
+},
+{
+"Título": "Presidente resalta avance del 75 por ciento en construcción de Presa Santa María en Sinaloa",
+"Fecha": "19.12.2022"
+},
+{
+"Título": "Presidente celebra triunfo de Argentina en el Mundial de fútbol 2022",
+"Fecha": "19.12.2022"
+},
+{
+"Título": "Presidente resalta amplia cobertura de programas sociales en comunidad de San Francisco de Lajas en Durango",
+"Fecha": "19.12.2022"
+},
+{
+"Título": "Presidente supervisa funcionamiento de primera etapa de distrito de riego Alejandro Gascón Mercado",
+"Fecha": "19.12.2022"
+},
+{
+"Título": "Presidente muestra ferri para visitar Centro Turístico Islas Marías",
+"Fecha": "19.12.2022"
+},
+{
+"Título": "Presidente inaugura Centro Turístico Islas Marías en Nayarit; fundamental garantizar que sea accesible para visitantes, afirma",
+"Fecha": "19.12.2022"
+},
+{
+"Título": "Gobierno de México garantiza a personas con discapacidad acceso a pensiones y rehabilitación: presidente",
+"Fecha": "19.12.2022"
+},
+{
+"Título": "Presidente garantiza investigación por atentado contra el periodista Ciro Gómez Leyva",
+"Fecha": "19.12.2022"
+},
+{
+"Título": "Centro Turístico Islas Marías será inaugurado este viernes como sitio de esparcimiento y recreación de la historia, destaca presidente",
+"Fecha": "19.12.2022"
+},
+{
+"Título": "Presidente asiste al 4° Informe Anual de Labores del Poder Judicial de la Federación del ministro Arturo Zaldívar Lelo de Larrea",
+"Fecha": "15.12.2022"
+},
+{
+"Título": "Presidente agradece a senadores aprobación de reformas en Ley Electoral; iniciativa regresa a Cámara de Diputados",
+"Fecha": "15.12.2022"
+},
+{
+"Título": "México tiene futuro y porvenir: presidente; federación impulsa inversión pública y bienestar",
+"Fecha": "15.12.2022"
+},
+{
+"Título": "Presidente resalta buen gobierno de Miguel Barbosa en Puebla durante homenaje póstumo",
+"Fecha": "15.12.2022"
+},
+{
+"Título": "Alianza para el bienestar en América Latina impulsará economía y ordenará flujo migratorio",
+"Fecha": "15.12.2022"
+},
+{
+"Título": "Presidente rendirá homenaje a Miguel Barbosa en Puebla",
+"Fecha": "15.12.2022"
+},
+{
+"Título": "Presidente lamenta fallecimiento del gobernador de Puebla, Miguel Barbosa",
+"Fecha": "15.12.2022"
+},
+{
+"Título": "Presidente inaugurará complejo turístico de las Islas Marías este viernes",
+"Fecha": "15.12.2022"
+},
+{
+"Título": "Presidente presentará a Joseph Biden plan de sustitución de importaciones; significará inversiones, afirma",
+"Fecha": "15.12.2022"
+},
+{
+"Título": "COVID-19 en México registra seis semanas de incremento por temporada de frío; apunta a convertirse en enfermedad estacional",
+"Fecha": "15.12.2022"
+},
+{
+"Título": "Presidentes de México y Estados Unidos refrendan amistad y respeto a las soberanías en el aniversario 200 de la relación diplomática",
+"Fecha": "12.12.2022"
+},
+{
+"Título": "Avanza construcción del Tren Toluca-Ciudad de México; presidente destaca coordinación entre gobierno y empresas",
+"Fecha": "12.12.2022"
+},
+{
+"Título": "Sin daños mayores tras sismo con epicentro en Tecpan, Guerrero, destaca presidente",
+"Fecha": "12.12.2022"
+},
+{
+"Título": "Presidente constata avances en obras hidráulicas en beneficio de cuatro estados",
+"Fecha": "12.12.2022"
+},
+{
+"Título": "Presidente se compromete a corregir modificaciones imprevistas en reforma electoral; estarán apegadas a la Constitución, afirma",
+"Fecha": "12.12.2022"
+},
+{
+"Título": "México concluirá 2022 con buenos resultados económicos: presidente; inflación baja a 7.80 por ciento en noviembre",
+"Fecha": "12.12.2022"
+},
+{
+"Título": "Tren Maya utilizará diésel no contaminante de refinería Deer Park",
+"Fecha": "12.12.2022"
+},
+{
+"Título": "Gobierno de México impulsa el rescate arqueológico más importante en la historia del sureste del país: presidente",
+"Fecha": "12.12.2022"
+},
+{
+"Título": "Presidente se pronuncia sobre hechos en Perú; reafirma política de no intervención y autodeterminación de los pueblos",
+"Fecha": "12.12.2022"
+},
+{
+"Título": "Reforma a Ley Electoral reduce gastos del INE en más de 3 mil 500 millones de pesos: presidente",
+"Fecha": "12.12.2022"
+},
+{
+"Título": "Presidente expresa solidaridad a vicepresidenta de Argentina, Cristina Fernández",
+"Fecha": "06.12.2022"
+},
+{
+"Título": "Programa de regularización de vehículos de procedencia extranjera recauda 2 mil millones de pesos",
+"Fecha": "06.12.2022"
+},
+{
+"Título": "Guardia Nacional garantiza protección a connacionales a través de programa Héroes Paisanos",
+"Fecha": "06.12.2022"
+},
+{
+"Título": "Fuerzas Armadas ayudan a revertir robo de combustibles: presidente",
+"Fecha": "06.12.2022"
+},
+{
+"Título": "Inicia Plan de Salud IMSS Bienestar en Campeche",
+"Fecha": "06.12.2022"
+},
+{
+"Título": "Empresa a cargo de Sedena administrará aeropuertos de Chetumal, Palenque y Campeche, anuncia presidente",
+"Fecha": "06.12.2022"
+},
+{
+"Título": "Gobierno procura bienestar y seguridad en Campeche; Tren Maya representa inversión histórica en la región, afirma presidente",
+"Fecha": "06.12.2022"
+},
+{
+"Título": "Tren Maya es obra única y cuida el ambiente, afirma presidente en Tulum",
+"Fecha": "06.12.2022"
+},
+{
+"Título": "Fuerte de San Juan Ulúa simboliza libertad, afirma presidente; inaugura primera etapa de restauración del inmueble",
+"Fecha": "06.12.2022"
+},
+{
+"Título": "Incidencia delictiva a la baja es resultado de estrategia federal de pacificación, afirma presidente en sesión del Consejo Nacional de Seguridad Pública",
+"Fecha": "06.12.2022"
+},
+{
+"Título": "Avanza combate al robo de combustible en el país y en Veracruz, asegura presidente; genera ahorros diarios superiores a los 231 mil mdp",
+"Fecha": "02.12.2022"
+},
+{
+"Título": "Sembrando Vida reduce cultivo de plantas para la fabricación de drogas, resalta presidente; Cuarta Transformación fomenta bienestar a través del Humanismo Mexicano, afirma",
+"Fecha": "02.12.2022"
+},
+{
+"Título": "Presidentes de México y Colombia dialogarán sobre prevención de tráfico y consumo de drogas",
+"Fecha": "02.12.2022"
+},
+{
+"Título": "Salario mínimo aumentará 20 por ciento en 2023; incremento es resultado del consenso entre gobierno, empresas y sector obrero",
+"Fecha": "02.12.2022"
+},
+{
+"Título": "Inicia implementación del Plan de Salud para el Bienestar en Veracruz",
+"Fecha": "02.12.2022"
+},
+{
+"Título": "Presidente enviará terna de candidatos para la Comisión Federal de Competencia Económica",
+"Fecha": "02.12.2022"
+},
+{
+"Título": "Presidente asistirá a Cumbre de la Alianza del Pacífico el 14 de diciembre en Perú",
+"Fecha": "02.12.2022"
+},
+{
+"Título": "Plan de Salud para el Bienestar en Guerrero atenderá a la población abierta con todos los servicios médicos, anuncia presidente",
+"Fecha": "02.12.2022"
+},
+{
+"Título": "Presidente se reúne con directivos de Mondelēz International y Grupo Bimbo; destaca pago de impuestos por más de 6 mil MDP",
+"Fecha": "02.12.2022"
+},
+{
+"Título": "Presidente prevé enviar el fin de semana leyes secundarias en materia electoral",
+"Fecha": "02.12.2022"
+},
+{
+"Título": "Rescate del ISSSTE avanza en beneficio de trabajadores del Estado: presidente;  aumenta productividad médica en siete estados por IMSS Bienestar",
+"Fecha": "29.11.2022"
+},
+{
+"Título": "Gobierno da seguimiento a tendencia de COVID-19 en el país; registra incremento mínimo por temporada de frío",
+"Fecha": "29.11.2022"
+},
+{
+"Título": "Presidente entrega Premio Nacional de Deportes 2022; anuncia apoyos directos a deportistas en 2023",
+"Fecha": "29.11.2022"
+},
+{
+"Título": "Recuperación económica del país es lo más destacado de este año: presidente",
+"Fecha": "29.11.2022"
+},
+{
+"Título": "Presidente agradece al pueblo de México apoyo durante cuatro años de la Cuarta Transformación",
+"Fecha": "29.11.2022"
+},
+{
+"Título": "En México hay crecimiento económico y Programas para el Bienestar benefician al 85 por ciento del pueblo, afirma presidente",
+"Fecha": "29.11.2022"
+},
+{
+"Título": "‘Humanismo Mexicano’ es el modelo de gobierno de la Cuarta Transformación, afirma presidente en aniversario 4 del inicio de su administración​​​​​​​",
+"Fecha": "29.11.2022"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en la Celebración por 4 Años de Transformación",
+"Fecha": "29.11.2022"
+},
+{
+"Título": "Presidente envía mensaje de ánimo a Selección Mexicana de Fútbol",
+"Fecha": "29.11.2022"
+},
+{
+"Título": "Presidente lamenta fallecimiento del actor Héctor Bonilla",
+"Fecha": "29.11.2022"
+},
+{
+"Título": "Presidente resalta hermandad entre México y Colombia",
+"Fecha": "25.11.2022"
+},
+{
+"Título": "Presidente recibe visita oficial de Gustavo Petro, presidente de Colombia",
+"Fecha": "25.11.2022"
+},
+{
+"Título": "Presidente anuncia visita de Joseph Biden, primer mandatario de Estados Unidos, en enero de 2023",
+"Fecha": "25.11.2022"
+},
+{
+"Título": "Presidente lamenta asesinato de coordinador estatal de la Guardia Nacional en Zacatecas",
+"Fecha": "25.11.2022"
+},
+{
+"Título": "Presidente destaca acercamiento con Ecuador para lograr acuerdo comercial en beneficio de ambas naciones",
+"Fecha": "25.11.2022"
+},
+{
+"Título": "Presidente recibe visita oficial de su homólogo de República del Ecuador, Guillermo Lasso Mendoza",
+"Fecha": "25.11.2022"
+},
+{
+"Título": "Llegó el momento de definir teóricamente política de la 4T, afirma presidente; presentará concepto el 27 de noviembre en el Zócalo",
+"Fecha": "25.11.2022"
+},
+{
+"Título": "Reforma a leyes secundarias en materia electoral generará ahorros y una auténtica democracia: presidente",
+"Fecha": "25.11.2022"
+},
+{
+"Título": "Presidente destaca relación fraterna con Chile en visita del mandatario Gabriel Boric Font",
+"Fecha": "25.11.2022"
+},
+{
+"Título": "Presidente recibe visita oficial de Gabriel Boric Font, presidente de Chile",
+"Fecha": "25.11.2022"
+},
+{
+"Título": "Presidente conmemora Día de la Armada en Colima; Fuerzas Armadas son instituciones sólidas que respaldan al país, afirma",
+"Fecha": "23.11.2022"
+},
+{
+"Título": "Cofepris presenta acciones de control de precursores químicos para enfrentar fabricación de sustancias ilícitas",
+"Fecha": "23.11.2022"
+},
+{
+"Título": "Administración de la Secretaría de Marina en puerto de Manzanillo se traduce en más seguridad para Colima: presidente",
+"Fecha": "23.11.2022"
+},
+{
+"Título": "Cumbre de la Alianza del Pacífico en México se suspende; presidente propone viajar a Perú para realizar encuentro",
+"Fecha": "23.11.2022"
+},
+{
+"Título": "Gobierno de México no aceptará ingreso de maíz amarillo para consumo humano, afirma presidente",
+"Fecha": "23.11.2022"
+},
+{
+"Título": "Estrategia de Seguridad funciona por atención al pueblo: presidente; destaca tendencia a la baja en secuestro",
+"Fecha": "23.11.2022"
+},
+{
+"Título": "Recaudación en aduanas marítimas e interiores contribuye a estabilidad de las finanzas públicas del país",
+"Fecha": "23.11.2022"
+},
+{
+"Título": "Presidente recibe cartas credenciales de embajadores de Chile, Jordania y Argelia",
+"Fecha": "23.11.2022"
+},
+{
+"Título": "Presidente se reúne con directivos de la NFL previo al juego de San Francisco contra Arizona en la Ciudad de México",
+"Fecha": "23.11.2022"
+},
+{
+"Título": "Presidente homenajea a Ricardo Flores Magón en su centenario luctuoso; ideales de democracia y distribución de la riqueza están vigentes, afirma",
+"Fecha": "23.11.2022"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en el Centenario Luctuoso de Ricardo Flores Magón",
+"Fecha": "21.11.2022"
+},
+{
+"Título": "Cumbre de la Alianza del Pacífico podría cancelarse por ausencia de Perú: presidente",
+"Fecha": "21.11.2022"
+},
+{
+"Título": "Presidente convoca a celebrar logros de la Cuarta Transformación en marcha del 27 de noviembre",
+"Fecha": "21.11.2022"
+},
+{
+"Título": "Pueblo y Fuerzas Armadas mantienen convivencia fraterna, afirma presidente en conmemoración del 112 Aniversario de la Revolución Mexicana",
+"Fecha": "21.11.2022"
+},
+{
+"Título": "Fotogalería. 112 Aniversario de la Revolución Mexicana",
+"Fecha": "21.11.2022"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en el 112 Aniversario de la Revolución Mexicana",
+"Fecha": "21.11.2022"
+},
+{
+"Título": "Presidente inaugura Comunidad Mexicana de Hemodiálisis en Toluca",
+"Fecha": "21.11.2022"
+},
+{
+"Título": "Conagua podría atraer talento de egresados de Universidad para el Bienestar",
+"Fecha": "21.11.2022"
+},
+{
+"Título": "Universidades para el Bienestar garantizan acceso a jóvenes a educación superior, afirma presidente; inaugura sede en Áporo, Michoacán",
+"Fecha": "21.11.2022"
+},
+{
+"Título": "Universidades del Bienestar Benito Juárez especializadas en Medicina y Enfermería revertirán déficit de personal de la salud, reafirma presidente",
+"Fecha": "21.11.2022"
+},
+{
+"Título": "Becas para estudiantes universitarios aumentarán en 2023, anuncia presidente",
+"Fecha": "18.11.2022"
+},
+{
+"Título": "México recibirá 60 mil mdd en remesas, informa presidente",
+"Fecha": "18.11.2022"
+},
+{
+"Título": "Gobierno federal trabaja en instalación de nuevo depósito de residuos sólidos en Veracruz; sustituirá tiradero «Las Matas»",
+"Fecha": "18.11.2022"
+},
+{
+"Título": "Presidente envía condolencias a familiares de fallecidos en incidente aéreo en Aguascalientes",
+"Fecha": "18.11.2022"
+},
+{
+"Título": "Gobierno de México insistirá en aprobación de reforma electoral, afirma presidente",
+"Fecha": "18.11.2022"
+},
+{
+"Título": "Presidente descarta riesgo para la salud pública en México por gripe aviar",
+"Fecha": "18.11.2022"
+},
+{
+"Título": "Presidente encabeza entrega del Premio Nacional de Artes y Literatura 2020-2021",
+"Fecha": "18.11.2022"
+},
+{
+"Título": "México mantiene postura de paz ante conflicto entre Rusia y Ucrania",
+"Fecha": "18.11.2022"
+},
+{
+"Título": "Presidente llama a mexicanos a defender la democracia; podría reformar ley secundaria en materia electoral",
+"Fecha": "18.11.2022"
+},
+{
+"Título": "Presidente encabezará marcha el 27 de noviembre por el cuarto aniversario del inicio de la Cuarta Transformación",
+"Fecha": "18.11.2022"
+},
+{
+"Título": "Recuperación económica de México se refleja en creación de empleos y salario de trabajadores, asegura presidente en 113 Asamblea del IMSS",
+"Fecha": "15.11.2022"
+},
+{
+"Título": "IMSS reporta resultados positivos en convocatorias de reclutamiento a personal médico",
+"Fecha": "15.11.2022"
+},
+{
+"Título": "Gobierno de México analiza alternativa para garantizar democracia en el país, anuncia presidente",
+"Fecha": "15.11.2022"
+},
+{
+"Título": "Programa piloto del gobierno federal garantiza seguridad social a trabajadores independientes",
+"Fecha": "15.11.2022"
+},
+{
+"Título": "Nuevo régimen de incorporación obligatoria protegerá a 2.3 millones de personas trabajadoras del hogar: STPS",
+"Fecha": "15.11.2022"
+},
+{
+"Título": "Presidente celebra aprobación de presupuesto histórico a Programas para el Bienestar",
+"Fecha": "15.11.2022"
+},
+{
+"Título": "Reforma electoral establecerá una auténtica democracia: presidente",
+"Fecha": "15.11.2022"
+},
+{
+"Título": "Presidente invita a participar en la edición 2022 de El Buen Fin",
+"Fecha": "15.11.2022"
+},
+{
+"Título": "Tren Maya detona desarrollo en Yucatán; presidente destaca proyectos complementarios de movilidad e infraestructura",
+"Fecha": "15.11.2022"
+},
+{
+"Título": "Yucatán es ejemplo nacional en seguridad, afirma presidente",
+"Fecha": "15.11.2022"
+},
+{
+"Título": "Fomento al crecimiento con bienestar consolida economía mexicana, afirma presidente",
+"Fecha": "10.11.2022"
+},
+{
+"Título": "Tren Maya conectará 26 zonas arqueológicas del mundo maya: presidente; preservación del Gran Acuífero Maya, prioridad del INAH",
+"Fecha": "10.11.2022"
+},
+{
+"Título": "Inflación mantiene tendencia a la baja; registra 8.41 por ciento en octubre",
+"Fecha": "10.11.2022"
+},
+{
+"Título": "Jorge Nuño Lara será nuevo secretario de Infraestructura, Comunicaciones y Transportes, anuncia presidente",
+"Fecha": "10.11.2022"
+},
+{
+"Título": "Informe de seguridad se presentará cada quince días, anuncia presidente",
+"Fecha": "10.11.2022"
+},
+{
+"Título": "SSPC presenta sistema de emisión de antecedentes penales en línea",
+"Fecha": "10.11.2022"
+},
+{
+"Título": "Pruebas toxicológicas a estudiantes de Chiapas, Veracruz e Hidalgo resultaron negativas por consumo de drogas",
+"Fecha": "10.11.2022"
+},
+{
+"Título": "Universidades para el Bienestar, de los mejores programas de la 4T y ejemplo de manejo honesto del presupuesto: presidente; directora informa avances",
+"Fecha": "10.11.2022"
+},
+{
+"Título": "“El Tren Maya va”, afirma presidente al terminar gira de supervisión del proyecto",
+"Fecha": "10.11.2022"
+},
+{
+"Título": "Presidente constata avances en aeropuerto de Tulum y tramos 4 y 5 del Tren Maya",
+"Fecha": "10.11.2022"
+},
+{
+"Título": "Octubre alcanza nivel histórico creación de empleos, celebra presidente",
+"Fecha": "04.11.2022"
+},
+{
+"Título": "Presidente de Argentina visitará México el 24 de noviembre, confirma presidente",
+"Fecha": "04.11.2022"
+},
+{
+"Título": "Presidentes de México y Chile dialogan sobre próxima visita de Estado de Gabriel Boric al país",
+"Fecha": "04.11.2022"
+},
+{
+"Título": "Presidente reafirma rechazo al bloqueo contra Cuba; llama a Estados Unidos a propiciar la fraternidad universal",
+"Fecha": "04.11.2022"
+},
+{
+"Título": "Industria de la construcción genera desarrollo y empleos: presidente; inicia operaciones autopista Guadalajara-Colima",
+"Fecha": "04.11.2022"
+},
+{
+"Título": "Reforma electoral no desaparecerá órgano encargado de organizar elecciones, reitera presidente",
+"Fecha": "04.11.2022"
+},
+{
+"Título": "Presidente recibe en Palacio Nacional a Fernando Savater",
+"Fecha": "04.11.2022"
+},
+{
+"Título": "Gobierno fortalece capacidades de personal de salud y medicina tradicional; sistema público será uno de los mejores del mundo en 2023: presidente",
+"Fecha": "04.11.2022"
+},
+{
+"Título": "COVID-19 mantiene tendencia a la baja con niveles mínimos de casos",
+"Fecha": "04.11.2022"
+},
+{
+"Título": "Modelo IMSS Bienestar optimiza abasto de medicamentos en cinco estados del país",
+"Fecha": "04.11.2022"
+},
+{
+"Título": "Presidente dialoga con Lula da Silva tras triunfo en elecciones de Brasil",
+"Fecha": "31.10.2022"
+},
+{
+"Título": "Proyectos de energías renovables entre México y Estados Unidos impulsarán desarrollo económico y cuidado del ambiente: presidente",
+"Fecha": "31.10.2022"
+},
+{
+"Título": "Reforma electoral fortalecerá la democracia en México: presidente; INE y TEPJF no desaparecerán, asegura",
+"Fecha": "31.10.2022"
+},
+{
+"Título": "Presidente invita al pueblo de México a informe del 1º de diciembre en el Zócalo capitalino",
+"Fecha": "31.10.2022"
+},
+{
+"Título": "Presidente celebra triunfo de Lula da Silva en elección de presidencia en Brasil",
+"Fecha": "31.10.2022"
+},
+{
+"Título": "Plan de Salud IMSS Bienestar en Sinaloa priorizará prevención de infartos y cáncer de mama",
+"Fecha": "31.10.2022"
+},
+{
+"Título": "Presidente envía condolencias a víctimas de estampida humana en Corea del Sur",
+"Fecha": "31.10.2022"
+},
+{
+"Título": "Programas para el Bienestar benefician a 30 millones de familias en el país: presidente; supervisa implementación de IMSS Bienestar en Sonora",
+"Fecha": "31.10.2022"
+},
+{
+"Título": "Gobierno federal restituye casi 30 mil hectáreas de tierra al pueblo yaqui; continuarán acciones de justicia: presidente",
+"Fecha": "31.10.2022"
+},
+{
+"Título": "Avanza aplicación del Plan de Salud IMSS Bienestar en Baja California Sur",
+"Fecha": "31.10.2022"
+},
+{
+"Título": "Incidencia delictiva disminuyó en Baja California Sur como resultado de Estrategia Nacional de Seguridad, destaca presidente",
+"Fecha": "28.10.2022"
+},
+{
+"Título": "Presidente anuncia compra de termoeléctrica para abastecer demanda en Baja California Sur",
+"Fecha": "28.10.2022"
+},
+{
+"Título": "Tianguis del Bienestar entrega más de 6 millones de bienes a comunidades de Guerrero, Veracruz, Chiapas y Oaxaca",
+"Fecha": "28.10.2022"
+},
+{
+"Título": "Gobierno de México impulsa mecanismo de preliberación y amnistía para personas encarceladas injustamente",
+"Fecha": "28.10.2022"
+},
+{
+"Título": "Economía de México es estable por condiciones favorables: presidente; obras estratégicas se construyen sin deuda adicional, asegura",
+"Fecha": "28.10.2022"
+},
+{
+"Título": "Presidente propone alternativas para impulsar servicio aéreo eficiente en el país",
+"Fecha": "28.10.2022"
+},
+{
+"Título": "Continúa convocatoria a médicos especialistas extranjeros y nacionales para trabajar en zonas rurales",
+"Fecha": "28.10.2022"
+},
+{
+"Título": "Gobierno de México consolidará Plan de Salud para el Bienestar en 12 estados al final de 2022: presidente",
+"Fecha": "28.10.2022"
+},
+{
+"Título": "Gobiernos de Chile y México se unen en homenaje a Gabriela Mistral",
+"Fecha": "28.10.2022"
+},
+{
+"Título": "Gobierno de México atiende a damnificados de Nayarit por huracán Roslyn",
+"Fecha": "28.10.2022"
+},
+{
+"Título": "Inflación baja a 8.5% en primera quincena de octubre, destaca presidente; medidas del Gobierno de México contribuyen a reducción, afirma",
+"Fecha": "24.10.2022"
+},
+{
+"Título": "Presidente inaugura modernización de carretera La Pera-Cuautla en Morelos",
+"Fecha": "24.10.2022"
+},
+{
+"Título": "Habrá presupuesto para caminos y entrega de fertilizantes gratuitos en Puebla, anuncia presidente",
+"Fecha": "24.10.2022"
+},
+{
+"Título": "Nuevo sistema de salud se extenderá a BCS, Sonora y Sinaloa; próximamente llegará a Guerrero, anuncia presidente",
+"Fecha": "24.10.2022"
+},
+{
+"Título": "Presidente garantiza presupuesto a caminos rurales de La Montaña de Guerrero en beneficio del pueblo",
+"Fecha": "24.10.2022"
+},
+{
+"Título": "Presidente reafirma compromisos con pueblo de Guerrero a través de los Programas para el Bienestar",
+"Fecha": "24.10.2022"
+},
+{
+"Título": "Presidente refrenda apoyo a migrantes venezolanos que se encuentran en territorio nacional",
+"Fecha": "24.10.2022"
+},
+{
+"Título": "Anuncian descubrimiento de estela conmemorativa en Uxmal, Yucatán; INAH informa avances de salvamento arqueológico por Tren Maya",
+"Fecha": "24.10.2022"
+},
+{
+"Título": "Septiembre de 2022 mantuvo tendencia a la baja en delitos; Estrategia Nacional de Seguridad da resultados positivos: SSPC",
+"Fecha": "24.10.2022"
+},
+{
+"Título": "Mejora percepción social sobre seguridad pública; el pueblo de México confía en Marina, Ejército y Guardia Nacional",
+"Fecha": "24.10.2022"
+},
+{
+"Título": "Presidente celebra entrega de visas temporales para que migrantes viajen a Estados Unidos",
+"Fecha": "19.10.2022"
+},
+{
+"Título": "En Tamaulipas, estrategia de seguridad está dando resultados, afirma presidente",
+"Fecha": "19.10.2022"
+},
+{
+"Título": "Gobierno de México presenta Plan de apoyo a Tamaulipas",
+"Fecha": "19.10.2022"
+},
+{
+"Título": "Presidente conversa con Joseph Biden sobre migración y cooperación para el desarrollo; confirma su visita para la Cumbre de América del Norte",
+"Fecha": "19.10.2022"
+},
+{
+"Título": "Presidente se reúne con directivos de Walmart en Palacio Nacional; establecen compromiso de bajar precios de alimentos",
+"Fecha": "19.10.2022"
+},
+{
+"Título": "Médicos especialistas extranjeros atienden convocatoria para trabajar en zonas rurales de México: IMSS",
+"Fecha": "19.10.2022"
+},
+{
+"Título": "Presidente llama a difundir daños de cigarros electrónicos; Cofepris presenta realidad detrás del vapeo",
+"Fecha": "19.10.2022"
+},
+{
+"Título": "COVID-19 acumula 14 semanas de reducción continua",
+"Fecha": "19.10.2022"
+},
+{
+"Título": "Gobierno procura mantenimiento de carreteras libres y autopistas con inversión de 22 mil millones de pesos: presidente",
+"Fecha": "19.10.2022"
+},
+{
+"Título": "Presidente refrenda compromiso de inaugurar Tren Maya en diciembre 2023",
+"Fecha": "19.10.2022"
+},
+{
+"Título": "Tren Maya impulsará turismo en zonas arqueológicas en la región sureste del país",
+"Fecha": "15.10.2022"
+},
+{
+"Título": "México es respetado por los países del mundo: presidente; amistad y diálogo con Estados Unidos imposibilita confrontación",
+"Fecha": "15.10.2022"
+},
+{
+"Título": "Presidente recibe en Palacio Nacional cartas credenciales de embajadores de Kuwait, España y del Estado de la Santa Sede",
+"Fecha": "15.10.2022"
+},
+{
+"Título": "Presidente celebra aprobación de legisladores para consolidar Guardia Nacional; iniciativa pasa a congresos locales",
+"Fecha": "15.10.2022"
+},
+{
+"Título": "Programas para el Bienestar tienen cobertura en todos los municipios del país: presidente",
+"Fecha": "15.10.2022"
+},
+{
+"Título": "Presidente acepta renuncia de Horacio Duarte Olivares como titular de la Agencia Nacional de Aduanas de México",
+"Fecha": "15.10.2022"
+},
+{
+"Título": "Gobierno de la 4T coloca bases para lograr una sociedad mejor con justicia e igualdad",
+"Fecha": "15.10.2022"
+},
+{
+"Título": "COVID-19 en México acumula 13 semanas de reducción",
+"Fecha": "15.10.2022"
+},
+{
+"Título": "Importar alimentos permitirá controlar inflación y precios justos a consumidores: presidente",
+"Fecha": "15.10.2022"
+},
+{
+"Título": "Gobierno federal presenta convocatoria internacional de médicos especialistas para garantizar derecho a la salud en México",
+"Fecha": "15.10.2022"
+},
+{
+"Título": "Beatriz Gutiérrez Müller representará en Chile al presidente en homenaje a Gabriela Mistral",
+"Fecha": "10.10.2022"
+},
+{
+"Título": "Licencia de importación a empresas garantiza precios estables de alimentos: presidente; destaca resultados de plan anti inflación",
+"Fecha": "10.10.2022"
+},
+{
+"Título": "Acuerdo entre México y Rusia en materia espacial no tiene propósito de espionaje, aclara presidente",
+"Fecha": "10.10.2022"
+},
+{
+"Título": "Rehabilitación de refinería Madero en Tamaulipas aumenta su producción, destaca presidente",
+"Fecha": "10.10.2022"
+},
+{
+"Título": "Presidente lamenta muerte del senador Faustino López Vargas",
+"Fecha": "10.10.2022"
+},
+{
+"Título": "Presidente celebra asamblea con trabajadores de refinería de Tula, Hidalgo; destaca esfuerzo para alcanzar autosuficiencia energética",
+"Fecha": "10.10.2022"
+},
+{
+"Título": "Presidente evalúa avances en rehabilitación de refinería Salamanca en Guanajuato",
+"Fecha": "10.10.2022"
+},
+{
+"Título": "Presidente constata avances de refinería de Minatitlán en Veracruz",
+"Fecha": "10.10.2022"
+},
+{
+"Título": "Presidente inicia gira de supervisión de refinerías en nuevo complejo Olmeca en Tabasco",
+"Fecha": "10.10.2022"
+},
+{
+"Título": "En septiembre, inflación detuvo tendencia al alza: presidente; prevé descenso en siguientes meses",
+"Fecha": "10.10.2022"
+},
+{
+"Título": "Presidente nombra a Raquel Buenrostro Sánchez como nueva titular de la Secretaría de Economía",
+"Fecha": "07.10.2022"
+},
+{
+"Título": "Generación de empleos alcanza cifra récord con más de 21 millones de puestos de trabajo en septiembre",
+"Fecha": "07.10.2022"
+},
+{
+"Título": "Presidente recibe en Palacio Nacional a directivos de AT&T; mantienen interés en mejorar telecomunicaciones, afirma",
+"Fecha": "07.10.2022"
+},
+{
+"Título": "Presidente anuncia salida de Tatiana Clouthier Carrillo de la Secretaría de Economía",
+"Fecha": "07.10.2022"
+},
+{
+"Título": "Licencia a empresas de alimentos eliminará obstáculos y reducirá precios al consumidor, afirma presidente",
+"Fecha": "07.10.2022"
+},
+{
+"Título": "Presidente reconoce a senadores aprobación sobre permanencia de Fuerzas Armadas hasta 2028",
+"Fecha": "07.10.2022"
+},
+{
+"Título": "Presidente se reúne con directivos de la empresa 3M; agradece respaldo en pandemia",
+"Fecha": "07.10.2022"
+},
+{
+"Título": "Gobierno de México analiza creación de línea aérea nacional",
+"Fecha": "07.10.2022"
+},
+{
+"Título": "Médicos especialistas llegan a regiones de alta marginación a través del Plan de Salud para el Bienestar",
+"Fecha": "07.10.2022"
+},
+{
+"Título": "En 2023 se resolverán definitivamente las necesidades del AIFA y el AICM, asegura presidente",
+"Fecha": "07.10.2022"
+},
+{
+"Título": "Acuerdo de apertura contra la inflación y la carestía entre el Gobierno de México e iniciativa privada reducirá costo de la canasta básica",
+"Fecha": "03.10.2022"
+},
+{
+"Título": "«El pueblo demostró su inclinación por la igualdad y la justicia”, afirma presidente AMLO sobre elecciones en Brasil",
+"Fecha": "03.10.2022"
+},
+{
+"Título": "Presidente inaugura sucursal del Banco del Bienestar en Mitla, Oaxaca; institución tendrá presencia en todo el estado, afirma",
+"Fecha": "03.10.2022"
+},
+{
+"Título": "Presidente envía condolencias a familiares de marinos fallecidos en Tabasco",
+"Fecha": "03.10.2022"
+},
+{
+"Título": "Presidente supervisa acciones de apoyo a afectados por huracán Agatha",
+"Fecha": "03.10.2022"
+},
+{
+"Título": "“Me siento bien y cuento con el apoyo de la gente”, afirma presidente sobre su estado de salud",
+"Fecha": "03.10.2022"
+},
+{
+"Título": "Presidente se reúne con representantes de Safran; «seguirán invirtiendo en nuestro país», afirma",
+"Fecha": "03.10.2022"
+},
+{
+"Título": "México ofrece ayuda a Alemania y Cuba en materia energética",
+"Fecha": "03.10.2022"
+},
+{
+"Título": "Finanzas públicas sanas impulsan desarrollo y Programas para el Bienestar, afirma presidente",
+"Fecha": "03.10.2022"
+},
+{
+"Título": "Proyecto del Tren Maya promueve salvamento arqueológico en el sureste; sitios de Quintana Roo se incorporan a ruta turística",
+"Fecha": "03.10.2022"
+},
+{
+"Título": "Presidente destaca tendencia a la baja de defunciones por COVID-19; México registra reducción de casos por once semanas continuas",
+"Fecha": "27.09.2022"
+},
+{
+"Título": "Federación trabaja en rescate del ISSSTE, afirma presidente; presentan avances del Plan de Salud para el Bienestar",
+"Fecha": "27.09.2022"
+},
+{
+"Título": "Gobierno federal llama a ciudadanía a evaluar presencia del Ejército en las calles y desempeño de Guardia Nacional",
+"Fecha": "27.09.2022"
+},
+{
+"Título": "Tianguis del Bienestar beneficia a más de 200 mil familias en situación de pobreza de cuatro entidades",
+"Fecha": "27.09.2022"
+},
+{
+"Título": "Gobierno mantiene compromiso de conocer la verdad en caso Ayotzinapa: presidente; hacer justicia es deber del Estado",
+"Fecha": "27.09.2022"
+},
+{
+"Título": "Presidente supervisa obras del Tren Maya en Quintana Roo",
+"Fecha": "27.09.2022"
+},
+{
+"Título": "Se activa Plan DN-III por sismo de magnitud 5.6 en Tecomán, Colima",
+"Fecha": "27.09.2022"
+},
+{
+"Título": "Presidente propone consulta ciudadana sobre Guardia Nacional y permanencia de Fuerzas Armadas en tareas de seguridad pública",
+"Fecha": "27.09.2022"
+},
+{
+"Título": "Gobierno de México alcanza acuerdo con productores y distribuidores de alimentos para controlar inflación",
+"Fecha": "27.09.2022"
+},
+{
+"Título": "Es necesario consolidar la Guardia Nacional a favor de la paz, reafirma presidente",
+"Fecha": "27.09.2022"
+},
+{
+"Título": "Gobierno de México atiende a población tras réplica de sismo en Michoacán: presidente",
+"Fecha": "22.09.2022"
+},
+{
+"Título": "Presidente reporta pormenores del sismo de 6.9; dos personas fallecen en Ciudad de México",
+"Fecha": "22.09.2022"
+},
+{
+"Título": "Economía de México es sólida: presidente; finanzas públicas sanas generan panorama favorable, afirma",
+"Fecha": "22.09.2022"
+},
+{
+"Título": "Presidentes de México y Alemania dialogan para fortalecer relación bilateral",
+"Fecha": "22.09.2022"
+},
+{
+"Título": "Presidente López Obrador recibe visita oficial de Frank-Walter Steinmeier, presidente de Alemania",
+"Fecha": "22.09.2022"
+},
+{
+"Título": "Defunciones por COVID-19 alcanzan su nivel más bajo en México: presidente",
+"Fecha": "22.09.2022"
+},
+{
+"Título": "“México es un gran país”, afirma presidente tras sismo de 7.7 en Michoacán",
+"Fecha": "22.09.2022"
+},
+{
+"Título": "Homicidio y secuestro se mantienen a la baja en agosto; avanza pacificación del país: SSPC",
+"Fecha": "22.09.2022"
+},
+{
+"Título": "Presidente da seguimiento a acciones de atención y evaluación de daños tras sismo con epicentro en Coalcomán, Michoacán",
+"Fecha": "22.09.2022"
+},
+{
+"Título": "Presidente participa en Simulacro Nacional 2022; destaca actitud responsable de la población",
+"Fecha": "22.09.2022"
+},
+{
+"Título": "Presidente asegura que se cumplirán compromisos del Gobierno de la Cuarta Transformación",
+"Fecha": "19.09.2022"
+},
+{
+"Título": "Presidente rinde homenaje a víctimas de los sismos de 1985 y 2017",
+"Fecha": "19.09.2022"
+},
+{
+"Título": "Fuerzas Armadas y Guardia Nacional garantizan seguridad con respeto a los derechos humanos: presidente",
+"Fecha": "19.09.2022"
+},
+{
+"Título": "Presidente propone tregua por la paz en desfile del 212 Aniversario de la Independencia",
+"Fecha": "19.09.2022"
+},
+{
+"Título": "Invitados a festejos patrios simbolizan ideales y luchas por la justicia: presidente",
+"Fecha": "19.09.2022"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador durante el desfile cívico militar: 212 Aniversario de la Independencia",
+"Fecha": "19.09.2022"
+},
+{
+"Título": "”Muera la corrupción, el clasismo y el racismo”: presidente en 212 Aniversario de la Independencia",
+"Fecha": "19.09.2022"
+},
+{
+"Título": "Ejército participará en tareas de seguridad hasta 2028, destaca presidente",
+"Fecha": "19.09.2022"
+},
+{
+"Título": "Gobierno de México procura justicia para personas inocentes privadas de la libertad, afirma presidente",
+"Fecha": "19.09.2022"
+},
+{
+"Título": "Aniversario del Grito de Independencia “es el festejo cívico más importante de nuestro país”, afirma presidente",
+"Fecha": "19.09.2022"
+},
+{
+"Título": "Sedena y Semar deben continuar respaldo en seguridad pública para consolidar Guardia Nacional: presidente",
+"Fecha": "14.09.2022"
+},
+{
+"Título": "Presidente conmemora 175 Aniversario de la Gesta Heroica de los Niños Héroes de Chapultepec",
+"Fecha": "14.09.2022"
+},
+{
+"Título": "Autoridades estadounidenses respetarán soberanía energética de México, destaca presidente tras reunión con Blinken",
+"Fecha": "14.09.2022"
+},
+{
+"Título": "COVID-19 mantiene tendencia a la baja durante nueve semanas consecutivas; avanza vacunación a niñas y niños menores de 12 años",
+"Fecha": "14.09.2022"
+},
+{
+"Título": "Gobierno de la Cuarta Transformación garantiza abasto y compra de medicamentos hasta 2024",
+"Fecha": "14.09.2022"
+},
+{
+"Título": "Presidente se reúne con secretario de Estado y secretaria de Comercio de Estados Unidos en Palacio Nacional",
+"Fecha": "14.09.2022"
+},
+{
+"Título": "CFE tiene experiencia y equipo técnico para rescatar a trabajadores en mina Pinabete, afirma presidente",
+"Fecha": "14.09.2022"
+},
+{
+"Título": "México y Estados Unidos mantienen relación de respeto a la soberanía en materia energética, afirma presidente",
+"Fecha": "14.09.2022"
+},
+{
+"Título": "Discurso del 16 de septiembre será sobre la paz: presidente; fijará postura ante conflicto Rusia-Ucrania",
+"Fecha": "14.09.2022"
+},
+{
+"Título": "Presidente visita presa El Zapotillo en Jalisco para constatar reinicio de obra",
+"Fecha": "14.09.2022"
+},
+{
+"Título": "Estamos domando la inseguridad con acciones de bienestar: presidente",
+"Fecha": "10.09.2022"
+},
+{
+"Título": "Presidente recibe proyecto de decreto para proteger sitios sagrados del pueblo Wixárica",
+"Fecha": "10.09.2022"
+},
+{
+"Título": "Presidente llama a terminar con el racismo; presenta resultados de Programas para el Bienestar al pueblo N’ayeri en Nayarit",
+"Fecha": "10.09.2022"
+},
+{
+"Título": "Continuará apoyo y protección a culturas indígenas: presidente; anuncia instalación de Universidad en Huajicori",
+"Fecha": "10.09.2022"
+},
+{
+"Título": "Presidente escucha necesidades del pueblo O’dam en Mezquital, Durango; se atenderán a través de Programas para el Bienestar",
+"Fecha": "10.09.2022"
+},
+{
+"Título": "Banco del Bienestar restablece sistema para garantizar cobro de pensiones a personas adultas mayores",
+"Fecha": "10.09.2022"
+},
+{
+"Título": "Baja incidencia delictiva en Zacatecas por aplicación de Plan de Apoyo y Programas para el Bienestar",
+"Fecha": "10.09.2022"
+},
+{
+"Título": "Presidente Andrés Manuel López Obrador lamenta fallecimiento de la Reina Isabel II",
+"Fecha": "10.09.2022"
+},
+{
+"Título": "Presidente dialoga con directivos de Samsung sobre construcción y energía",
+"Fecha": "10.09.2022"
+},
+{
+"Título": "Presidente reconoce acciones de salvamento arqueológico en ruta del Tren Maya; INAH presenta informe mensual de avances",
+"Fecha": "10.09.2022"
+},
+{
+"Título": "Gobierno buscará soluciones ante aumento del precio de la tortilla, afirma presidente",
+"Fecha": "07.09.2022"
+},
+{
+"Título": "“Vamos a celebrar nuestra Independencia”: presidente; invita a festejo patrio en Zócalo",
+"Fecha": "07.09.2022"
+},
+{
+"Título": "Presidente recibe en Palacio Nacional cartas credenciales de seis embajadores",
+"Fecha": "07.09.2022"
+},
+{
+"Título": "Plan de Salud para el Bienestar integra medicina tradicional y conocimientos comunitarios; gobierno federal prepara histórica ley en la materia",
+"Fecha": "07.09.2022"
+},
+{
+"Título": "Paquete Económico 2023 prioriza aumento al presupuesto de los Programas para el Bienestar y garantiza financiamiento de obras",
+"Fecha": "07.09.2022"
+},
+{
+"Título": "Presidente refrenda apoyo a familiares de trabajadores de mina Pinabete; Protección Civil informa acuerdos alcanzados",
+"Fecha": "07.09.2022"
+},
+{
+"Título": "Gobierno federal mantiene relación respetuosa y productiva con sector privado, asegura presidente",
+"Fecha": "07.09.2022"
+},
+{
+"Título": "Economía mexicana es una de las más fuertes en el mundo, afirma presidente",
+"Fecha": "07.09.2022"
+},
+{
+"Título": "Reforma de Guardia Nacional conviene al pueblo de México: presidente; blindaje legal no es militarización, afirma",
+"Fecha": "07.09.2022"
+},
+{
+"Título": "Presidente rechaza construcción de muros fronterizos para contener migración; fenómeno requiere atender causas, afirma",
+"Fecha": "07.09.2022"
+},
+{
+"Título": "Tren Maya acercará a turistas a zonas arqueológicas de Campeche, destaca presidente",
+"Fecha": "04.09.2022"
+},
+{
+"Título": "Presidente destaca reinicio del tramo 5 del Tren Maya; obra se construye “con estricto apego a la ley”, afirma",
+"Fecha": "04.09.2022"
+},
+{
+"Título": "México y Estados Unidos mantienen relación de diálogo y cooperación: presidente; destaca respeto de Biden a la soberanía",
+"Fecha": "04.09.2022"
+},
+{
+"Título": "Manejo eficiente del presupuesto materializa proyectos estratégicos: presidente",
+"Fecha": "04.09.2022"
+},
+{
+"Título": "Iniciativa de reforma sobre la Guardia Nacional garantizará profesionalización y valores, afirma presidente",
+"Fecha": "04.09.2022"
+},
+{
+"Título": "Resultados demuestran que México está saliendo adelante, afirma presidente en Cuarto Informe de Gobierno",
+"Fecha": "04.09.2022"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en el Cuarto Informe de Gobierno",
+"Fecha": "04.09.2022"
+},
+{
+"Título": "Presidente recibe en Palacio Nacional a directivos de equipos y Grandes Ligas de Béisbol",
+"Fecha": "04.09.2022"
+},
+{
+"Título": "Gobierno de México saldará deuda histórica de bienestar para Guerrero: presidente",
+"Fecha": "04.09.2022"
+},
+{
+"Título": "Presidente anuncia a Pablo Daniel Taddei Arriola como nuevo director de LitioMx",
+"Fecha": "04.09.2022"
+},
+{
+"Título": "Presidente entrega a familiares de diplomático Gilberto Bosques Saldívar reconocimiento de UNESCO por contribuciones humanitarias",
+"Fecha": "30.08.2022"
+},
+{
+"Título": "Rescate de mineros en Coahuila no se detiene: presidente; familiares recibirán indemnización a la brevedad",
+"Fecha": "30.08.2022"
+},
+{
+"Título": "Gobierno de México garantizará derecho a la salud por encima de los desafíos, afirma presidente",
+"Fecha": "30.08.2022"
+},
+{
+"Título": "Inicia ciclo escolar 2022-2023; Delfina Gómez presenta informe de resultados en SEP y da bienvenida a la nueva secretaria, Leticia Ramírez",
+"Fecha": "30.08.2022"
+},
+{
+"Título": "Presidente anuncia reforzamiento de acciones para recuperar cuerpos de mineros en Coahuila; familiares recibirán mayor indemnización",
+"Fecha": "30.08.2022"
+},
+{
+"Título": "Cuarta Transformación se construye con apoyo de las y los trabajadores de la CFE: presidente",
+"Fecha": "30.08.2022"
+},
+{
+"Título": "Presidente llama a trabajadores de la CFE a lograr objetivo de conectar con internet al país",
+"Fecha": "30.08.2022"
+},
+{
+"Título": "Gobierno de la Cuarta Transformación impulsará mecanismo para evitar privatizaciones en CFE, anuncia presidente",
+"Fecha": "30.08.2022"
+},
+{
+"Título": "Presidente refrenda apoyo del Gobierno de México a trabajadores de CFE; se protegerán sus derechos, afirma",
+"Fecha": "30.08.2022"
+},
+{
+"Título": "Plan de conectividad con internet tiene presupuesto garantizado, afirma presidente",
+"Fecha": "30.08.2022"
+},
+{
+"Título": "Instalación de 2 mil 800 antenas en todo el país acercará servicio de internet en todo el país: presidente",
+"Fecha": "26.08.2022"
+},
+{
+"Título": "Programas para el Bienestar llegan a 25 millones de hogares; presupuesto prioriza a adultos mayores e indígenas, afirma presidente",
+"Fecha": "26.08.2022"
+},
+{
+"Título": "Segob destaca informe de caso Ayotzinapa; “es resultado del análisis a favor de la verdad e investigación continúa”: Alejandro Encinas",
+"Fecha": "26.08.2022"
+},
+{
+"Título": "Presidente presenta primer spot del 4º Informe de Gobierno; todos los adultos mayores acceden a pensiones",
+"Fecha": "26.08.2022"
+},
+{
+"Título": "Gobierno de México refuerza acciones para consolidar servicio de internet en la República con ayuda de la CFE: presidente",
+"Fecha": "26.08.2022"
+},
+{
+"Título": "Gobierno federal entregará toda la información a GIEI sobre caso Ayotzinapa para evitar manipulación, afirma presidente",
+"Fecha": "26.08.2022"
+},
+{
+"Título": "Recinto Parlamentario 1857 abre al público a partir del 1° de septiembre, anuncia presidente",
+"Fecha": "26.08.2022"
+},
+{
+"Título": "México registra cifra histórica en Inversión Extranjera Directa en primer semestre de 2022",
+"Fecha": "26.08.2022"
+},
+{
+"Título": "Jornadas de reclutamiento registran más de 3 mil médicos especialistas postulados a vacantes del sistema de salud",
+"Fecha": "26.08.2022"
+},
+{
+"Título": "Gobierno de México rescata 180 unidades de salud abandonadas; Oaxaca y Veracruz, estados más beneficiados con obras",
+"Fecha": "26.08.2022"
+},
+{
+"Título": "Presidente participa en reinauguración del Recinto Parlamentario 1857 en Palacio Nacional; albergará exposición ‘México en sus Constituciones’",
+"Fecha": "22.08.2022"
+},
+{
+"Título": "Avanza consolidación de Financiera del Bienestar: presidente",
+"Fecha": "22.08.2022"
+},
+{
+"Título": "Presidente se compromete a garantizar justicia en caso de Ayotzinapa y a la no repetición de hechos",
+"Fecha": "22.08.2022"
+},
+{
+"Título": "Presidente garantiza apoyo a damnificados de Sonora por lluvias; inaugura sucursal del Banco del Bienestar en Cajeme",
+"Fecha": "22.08.2022"
+},
+{
+"Título": "Programas para el Bienestar se consolidan en sierra de Sonora y Chihuahua, afirma presidente",
+"Fecha": "22.08.2022"
+},
+{
+"Título": "Avanza Plan de Justicia para el Pueblo Yaqui; se entregarán 30 mil hectáreas de tierra en noviembre: presidente",
+"Fecha": "22.08.2022"
+},
+{
+"Título": "Garantizar bienestar a la población es la base de la estrategia de seguridad: presidente",
+"Fecha": "22.08.2022"
+},
+{
+"Título": "No habrá impunidad en caso de corrupción en Segalmex, afirma presidente; SFP rinde informe",
+"Fecha": "22.08.2022"
+},
+{
+"Título": "Empresas extranjeras validan estrategia de búsqueda del Gobierno de México en mina de Coahuila; “seguiremos hasta rescatar a trabajadores”: presidente",
+"Fecha": "22.08.2022"
+},
+{
+"Título": "Banco del Bienestar tiene potencial para ampliar oferta de servicios financieros en el largo plazo, afirma presidente",
+"Fecha": "22.08.2022"
+},
+{
+"Título": "Empresa estadounidense se integra a tareas de rescate de diez trabajadores en mina de Sabinas, Coahuila",
+"Fecha": "17.08.2022"
+},
+{
+"Título": "Dos empresas extranjeras participarán en rescate de mineros en Coahuila",
+"Fecha": "17.08.2022"
+},
+{
+"Título": "Plan de Salud para el Bienestar revierte corrupción y déficit de médicos especialistas, afirma presidente; garantiza atención universal y gratuita",
+"Fecha": "17.08.2022"
+},
+{
+"Título": "No dejaremos de trabajar en rescate de los mineros en Coahuila: presidente",
+"Fecha": "17.08.2022"
+},
+{
+"Título": "Universidades para el Bienestar Benito Juárez atiende a 68 mil alumnos; se enfocará en formación de profesionales de la salud",
+"Fecha": "17.08.2022"
+},
+{
+"Título": "Presidente presenta a nueva secretaria de Educación Pública: Leticia Ramírez Amaya",
+"Fecha": "17.08.2022"
+},
+{
+"Título": "Acueducto El Cuchillo II será obra de seguridad nacional; abastecerá agua a Monterrey",
+"Fecha": "17.08.2022"
+},
+{
+"Título": "Presidente firmará acuerdo en Nuevo León para construir acueducto que garantizará abasto de agua en Monterrey",
+"Fecha": "17.08.2022"
+},
+{
+"Título": "Presidente lamenta daños contra civiles en Ciudad Juárez, Chihuahua",
+"Fecha": "17.08.2022"
+},
+{
+"Título": "No habrá impunidad por colapso de mina en Coahuila, afirma presidente; labores de rescate se intensifican",
+"Fecha": "17.08.2022"
+},
+{
+"Título": "Presidente anuncia inversión de 600 millones de pesos en reforzamiento de Terminal 2 del AICM",
+"Fecha": "11.08.2022"
+},
+{
+"Título": "Gobierno de México trabaja para impedir aumentos en el precio de la tortilla, afirma presidente",
+"Fecha": "11.08.2022"
+},
+{
+"Título": "Continúan tareas de exploración y rescate de trabajadores en mina de Sabinas, Coahuila",
+"Fecha": "11.08.2022"
+},
+{
+"Título": "Gobierno invertirá 30 mil millones de pesos en acercar servicio de internet a todo el país",
+"Fecha": "11.08.2022"
+},
+{
+"Título": "Austeridad generará recursos adicionales en beneficio del pueblo: presidente; aumentarán montos de Programas para el Bienestar en 2023 y 2024",
+"Fecha": "11.08.2022"
+},
+{
+"Título": "Presidente resalta colaboración en trabajos de rescate de mineros; se investigará a fondo colapso en Sabinas, Coahuila",
+"Fecha": "11.08.2022"
+},
+{
+"Título": "Extracción de agua permitirá entrada de buzos esta semana a mina de Sabinas, Coahuila",
+"Fecha": "11.08.2022"
+},
+{
+"Título": "Combate a la corrupción y austeridad fortalece soberanía tecnológica de México",
+"Fecha": "11.08.2022"
+},
+{
+"Título": "Empresas confían en el país, afirma presidente; destaca continuidad de inversión de Bayer en México",
+"Fecha": "11.08.2022"
+},
+{
+"Título": "Médicos de Cuba reforzarán Plan de Salud para el Bienestar en Nayarit y Colima",
+"Fecha": "11.08.2022"
+},
+{
+"Título": "COVID-19 suma cuarta semana consecutiva de reducción",
+"Fecha": "09.08.2022"
+},
+{
+"Título": "Presidente emitirá acuerdo para que Guardia Nacional dependa de la Sedena",
+"Fecha": "09.08.2022"
+},
+{
+"Título": "Rescate de mineros en Coahuila se realiza sin escatimar esfuerzos y capacidades; familiares reciben apoyo y protección: presidente",
+"Fecha": "09.08.2022"
+},
+{
+"Título": "Colima tiene que ser ejemplo en servicios de salud, afirma presidente en supervisión de IMSS Bienestar en la entidad",
+"Fecha": "09.08.2022"
+},
+{
+"Título": "En diciembre de este año se inaugurará la autopista Colima-Guadalajara, reafirma presidente",
+"Fecha": "09.08.2022"
+},
+{
+"Título": "Presidente garantiza presupuesto para consolidar 200 planteles de la Universidad para el Bienestar Benito Juárez García",
+"Fecha": "09.08.2022"
+},
+{
+"Título": "Presidente destaca resultados de la administración de la Semar en el Puerto de Manzanillo",
+"Fecha": "09.08.2022"
+},
+{
+"Título": "Avanza implementación de IMSS Bienestar en el país; se garantiza el derecho universal a la salud: presidente",
+"Fecha": "09.08.2022"
+},
+{
+"Título": "Trabajos de rescate en mina de Sabinas, Coahuila se realizan de manera ininterrumpida: presidente",
+"Fecha": "09.08.2022"
+},
+{
+"Título": "Fertilizantes gratuitos en Tlaxcala para impulsar cultivo de maíz: presidente; inaugura sucursal de Banco del Bienestar en Calpulalpan",
+"Fecha": "09.08.2022"
+},
+{
+"Título": "Ahorros del gobierno permiten continuidad de Programas para el Bienestar, afirma presidente; supervisa avances del Plan de Salud en Tlaxcala",
+"Fecha": "05.08.2022"
+},
+{
+"Título": "Plan de Salud para el Bienestar mejora salarios del personal médico para dignificar su labor: presidente",
+"Fecha": "05.08.2022"
+},
+{
+"Título": "Tianguis del Bienestar seguirá beneficiando a familias de escasos recursos en México, afirma presidente",
+"Fecha": "05.08.2022"
+},
+{
+"Título": "Presidente llama a la ONU a liderar esfuerzos de paz para acabar conflictos de Rusia, China y Estados Unidos",
+"Fecha": "05.08.2022"
+},
+{
+"Título": "Refuerzan bombeo de agua para rescatar a trabajadores en mina de Coahuila",
+"Fecha": "05.08.2022"
+},
+{
+"Título": "Presidente propone tregua internacional de cese de confrontaciones; guerras afectan a los pueblos del mundo, afirma",
+"Fecha": "05.08.2022"
+},
+{
+"Título": "Rescatar a mineros en Coahuila es prioritario, afirma presidente; instruye coordinar esfuerzos para facilitar trabajos",
+"Fecha": "05.08.2022"
+},
+{
+"Título": "Gobierno de México trabaja en rescate de trabajadores en mina de Sabinas, Coahuila: presidente",
+"Fecha": "05.08.2022"
+},
+{
+"Título": "Programas para el Bienestar llegan a la mayoría de los hogares de Oaxaca, afirma presidente",
+"Fecha": "05.08.2022"
+},
+{
+"Título": "“Fiesta para todos el 15 de septiembre”: presidente; invita a festejar la Independencia de México con los Tigres del Norte y sorteo de la Lotería",
+"Fecha": "05.08.2022"
+},
+{
+"Título": "Presidente autoriza abrir archivos de la Secretaría de la Marina sobre la Guerra Sucia",
+"Fecha": "03.08.2022"
+},
+{
+"Título": "Presidente resalta recuperación de zonas arqueológicas cercanas al Tren Maya; tramos 1, 2 y 3 tienen visto bueno del 100 por ciento",
+"Fecha": "03.08.2022"
+},
+{
+"Título": "Presidente envía carta a Joseph Biden para reafirmar soberanía energética de México",
+"Fecha": "03.08.2022"
+},
+{
+"Título": "Bajan contagios, hospitalizaciones y defunciones en quinta ola de COVID-19",
+"Fecha": "03.08.2022"
+},
+{
+"Título": "Segunda jornada de reclutamiento de médicos especialistas prioriza a comunidades apartadas",
+"Fecha": "03.08.2022"
+},
+{
+"Título": "Presidente recibe en Palacio Nacional a la astronauta mexicana Katya Echazarreta",
+"Fecha": "03.08.2022"
+},
+{
+"Título": "Paquete Contra la Inflación y la Carestía garantiza precios benéficos en alimentos para la economía popular, afirma presidente",
+"Fecha": "03.08.2022"
+},
+{
+"Título": "Acueducto El Cuchillo II es la opción más viable para revertir escasez de agua en Nuevo León: presidente",
+"Fecha": "03.08.2022"
+},
+{
+"Título": "Áreas Naturales Protegidas se ampliarán con construcción del Tren Maya, asegura presidente",
+"Fecha": "03.08.2022"
+},
+{
+"Título": "Presidente atestigua inicio en obras de infraestructura en Quintana Roo",
+"Fecha": "03.08.2022"
+},
+{
+"Título": "Presidente firma decreto de refuerzo a las acciones para el abasto de agua en Nuevo León",
+"Fecha": "29.07.2022"
+},
+{
+"Título": "Presidente evalúa con gabinete avances del gobierno de la 4T; reafirman compromiso de trabajar por el pueblo",
+"Fecha": "29.07.2022"
+},
+{
+"Título": "No habrá ruptura con EE.UU. por consultas del T-MEC: presidente; México defenderá su independencia ante gobiernos extranjeros, afirma",
+"Fecha": "29.07.2022"
+},
+{
+"Título": "México tiene condiciones económicas favorables: presidente; en circunstancias difíciles saldremos adelante",
+"Fecha": "29.07.2022"
+},
+{
+"Título": "Austeridad es un asunto de principios, afirma presidente; Gobierno de México fomenta ahorros en beneficio de la gente",
+"Fecha": "29.07.2022"
+},
+{
+"Título": "Presidente invita a empresarios al Sorteo Especial del 15 de septiembre de la Lotería",
+"Fecha": "29.07.2022"
+},
+{
+"Título": "Gobierno de México analiza soluciones a daños estructurales en el AICM: presidente; destaca consolidación del AIFA",
+"Fecha": "29.07.2022"
+},
+{
+"Título": "Médicos de Cuba ganarán el mismo sueldo que los mexicanos; Plan de Salud para el Bienestar avanza con acuerdos",
+"Fecha": "29.07.2022"
+},
+{
+"Título": "Gobierno de México impulsará nuevas medidas de austeridad a favor del pueblo",
+"Fecha": "29.07.2022"
+},
+{
+"Título": "Recuperación de piezas de nuestras culturas es motivo de orgullo: presidente; regresan a la nación 8 mil 970 objetos arqueológicos",
+"Fecha": "29.07.2022"
+},
+{
+"Título": "Gobierno de México atiende situación de viruela símica; personas con bajas defensas del sistema inmune son vulnerables ante infección",
+"Fecha": "26.07.2022"
+},
+{
+"Título": "Quinta ola de COVID-19 en México va a la baja",
+"Fecha": "26.07.2022"
+},
+{
+"Título": "Segunda jornada de reclutamiento de médicos especialistas cuenta con más de 10 mil vacantes",
+"Fecha": "26.07.2022"
+},
+{
+"Título": "Presidente destaca disminución de homicidios dolosos en 2021",
+"Fecha": "26.07.2022"
+},
+{
+"Título": "Confianza del pueblo en autoridades de seguridad se fortalece por no permitir la impunidad, afirma presidente",
+"Fecha": "26.07.2022"
+},
+{
+"Título": "Presidente garantiza continuidad del Tren Maya; declararlo obra de seguridad nacional ayudará a cuidar recursos, afirma",
+"Fecha": "26.07.2022"
+},
+{
+"Título": "Nayarit recibe atención integral: presidente; se protegerá la soberanía energética, afirma",
+"Fecha": "26.07.2022"
+},
+{
+"Título": "Gobierno de la 4T terminará con 100 mil hectáreas de riego en el país para aumentar producción de alimentos: presidente",
+"Fecha": "26.07.2022"
+},
+{
+"Título": "Presidente refrenda compromiso de basificar al personal médico del país; supervisa hospital de IMSS Bienestar en Nayarit",
+"Fecha": "26.07.2022"
+},
+{
+"Título": "Presidente refrenda trabajo coordinado en Jalisco a favor de seguridad; Guardia Nacional registra alta cobertura en la entidad",
+"Fecha": "26.07.2022"
+},
+{
+"Título": "Presidente fijará postura sobre el T-MEC a favor del interés de la nación el 16 de septiembre",
+"Fecha": "22.07.2022"
+},
+{
+"Título": "Programa de Mejoramiento Urbano beneficia a 7.3 millones de personas; avanzan apoyos de vivienda y reconstrucción de patrimonio cultural",
+"Fecha": "22.07.2022"
+},
+{
+"Título": "México respeta acuerdos del T-MEC; gobierno federal defiende soberanía energética: presidente",
+"Fecha": "22.07.2022"
+},
+{
+"Título": "Trabajo coordinado da resultados positivos en seguridad, afirma presidente; destaca tendencia a la baja de homicidios en junio",
+"Fecha": "22.07.2022"
+},
+{
+"Título": "Gobierno de México redobla esfuerzos para subsanar déficit de médicos en el país; reporta contratación de 2 mil 621 especialistas",
+"Fecha": "22.07.2022"
+},
+{
+"Título": "Plan de Salud para el Bienestar nacionalizará el sistema, asegura presidente",
+"Fecha": "22.07.2022"
+},
+{
+"Título": "En México, siete de cada diez personas que pierden la vida por COVID-19 no están vacunadas",
+"Fecha": "22.07.2022"
+},
+{
+"Título": "Presidente conmemora 150 Aniversario Luctuoso de Benito Juárez con reapertura del Museo Homenaje al Benemérito de las Américas en Palacio Nacional",
+"Fecha": "22.07.2022"
+},
+{
+"Título": "Presidente llama a reforzar esfuerzos para enfrentar sequía en Nuevo León",
+"Fecha": "22.07.2022"
+},
+{
+"Título": "Secretaría de Marina encabezó aprehensión de Caro Quintero; DEA no tuvo injerencia, afirma presidente",
+"Fecha": "22.07.2022"
+},
+{
+"Título": "Fortalecimiento de plantas de fertilizantes beneficiará a 2 millones de productores, pequeños propietarios y ejidatarios: presidente",
+"Fecha": "17.07.2022"
+},
+{
+"Título": "Fotogalería. Gira de supervisión de plantas de fertilizantes en Veracruz",
+"Fecha": "17.07.2022"
+},
+{
+"Título": "México es un país de oportunidades para la inversión extranjera: presidente; inaugura fábrica de café en Veracruz",
+"Fecha": "17.07.2022"
+},
+{
+"Título": "Fotogalería. Presidente visita Complejo Petroquímico Escolín en Poza Rica, Veracruz.",
+"Fecha": "17.07.2022"
+},
+{
+"Título": "Presidente lamenta fallecimiento de integrantes de la Marina; se investigará causa de desplome de helicóptero, afirma",
+"Fecha": "17.07.2022"
+},
+{
+"Título": "Rehabilitación de plantas de fertilizantes de Pemex incrementará su producción hasta 50 por ciento: presidente",
+"Fecha": "17.07.2022"
+},
+{
+"Título": "Reunión en la Casa Blanca fue favorable para ambos países, afirma presidente",
+"Fecha": "17.07.2022"
+},
+{
+"Título": "México y Estados Unidos acuerdan aumentar visas de trabajo temporales en ese país: presidente",
+"Fecha": "17.07.2022"
+},
+{
+"Título": "Presidente dialoga con empresarios mexicanos y estadounidenses en Washington",
+"Fecha": "17.07.2022"
+},
+{
+"Título": "Presidente visita Memorial a Franklin Delano Roosevelt y el Monumento a Martin Luther King Jr.",
+"Fecha": "17.07.2022"
+},
+{
+"Título": "Presidente expone en la Casa Blanca propuesta de cooperación bilateral entre México y Estados Unidos",
+"Fecha": "12.07.2022"
+},
+{
+"Título": "Fotogalería. Visita oficial del presidente de México a Estados Unidos de América",
+"Fecha": "12.07.2022"
+},
+{
+"Título": "Palabras del presidente Andrés Manuel López Obrador en visita oficial a Estados Unidos de América",
+"Fecha": "12.07.2022"
+},
+{
+"Título": "Defensa de personas migrantes será prioridad en diálogo en la Casa Blanca, afirma presidente",
+"Fecha": "12.07.2022"
+},
+{
+"Título": "Presidente llega a Washington para visita oficial; reitera compromiso de defender a migrantes en Estados Unidos",
+"Fecha": "12.07.2022"
+},
+{
+"Título": "Gobierno de México trabaja en rescate y conservación de zonas arqueológicas en ruta del Tren Maya",
+"Fecha": "12.07.2022"
+},
+{
+"Título": "Cooperación entre México y Estados Unidos beneficiará a los pueblos de ambos países: presidente",
+"Fecha": "12.07.2022"
+},
+{
+"Título": "Presidente anuncia construcción de Universidad Benito Juárez en Villa Corzo",
+"Fecha": "12.07.2022"
+},
+{
+"Título": "Presidente constata restauración del templo de Santo Domingo de Guzmán y la Catedral de San Cristóbal de las Casas",
+"Fecha": "12.07.2022"
+},
+{
+"Título": "Gobierno de México establece convenio de pensión universal en Chiapas para personas con discapacidad",
+"Fecha": "12.07.2022"
+},
+{
+"Título": "Programas para el Bienestar benefician a más de un millón de personas en Chiapas: presidente; inaugura Banco del Bienestar en Ixtapa",
+"Fecha": "08.07.2022"
+},
+{
+"Título": "Más de 210 sucursales del Banco del Bienestar en Chiapas acercarán apoyos de los programas sociales a beneficiarios: presidente",
+"Fecha": "08.07.2022"
+},
+{
+"Título": "Calificadoras reconocen a México por buen manejo de finanzas: presidente; destaca factores que contribuyen a estabilidad",
+"Fecha": "08.07.2022"
+},
+{
+"Título": "SAT aclara controversia sobre Constancia de Situación Fiscal",
+"Fecha": "08.07.2022"
+},
+{
+"Título": "Gobierno federal busca simplificar más trámites del SAT, afirma presidente",
+"Fecha": "08.07.2022"
+},
+{
+"Título": "Presidente destaca mejora de perspectiva en México de Standard & Poor’s; calificadora reconoce política del gobierno federal",
+"Fecha": "08.07.2022"
+},
+{
+"Título": "Regularización de migrantes será tema central en reunión con Joseph Biden: presidente; propuesta de México conviene a ambos países",
+"Fecha": "08.07.2022"
+},
+{
+"Título": "Plan de seguridad social para periodistas independientes avanza con 386 solicitudes aprobadas",
+"Fecha": "08.07.2022"
+},
+{
+"Título": "Gobierno de México colabora en abasto de agua en Nuevo León; Conagua monitorea distribución en pipas",
+"Fecha": "08.07.2022"
+},
+{
+"Título": "Convocatoria nacional de reclutamiento de especialistas será permanente; 2 mil 253 médicos son contratados en primera jornada",
+"Fecha": "08.07.2022"
+},
+{
+"Título": "Presidente envía al Congreso iniciativa para eliminar horario de verano",
+"Fecha": "05.07.2022"
+},
+{
+"Título": "Casos de COVID-19 continúan al alza; SSa reitera llamado a la vacunación",
+"Fecha": "05.07.2022"
+},
+{
+"Título": "En 25 Aniversario del SAT, presidente destaca relevancia del órgano en el desarrollo del país",
+"Fecha": "05.07.2022"
+},
+{
+"Título": "Recaudación de impuestos permite financiar obras de infraestructura y Programas para el Bienestar: presidente",
+"Fecha": "05.07.2022"
+},
+{
+"Título": "Presidente destaca avance del 50 por ciento en tramo Mérida-Cancún del Tren Maya",
+"Fecha": "05.07.2022"
+},
+{
+"Título": "Presidente constata avances en tramos de obra del Tren Maya",
+"Fecha": "05.07.2022"
+},
+{
+"Título": "Gobierno de México garantiza bienestar y gobernabilidad, afirma presidente en 4° aniversario del triunfo de la 4T en elecciones",
+"Fecha": "05.07.2022"
+},
+{
+"Título": "Presidente inaugura primera etapa de la refinería Olmeca en Dos Bocas",
+"Fecha": "05.07.2022"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en 4° Año del Triunfo Democrático Histórico",
+"Fecha": "05.07.2022"
+},
+{
+"Título": "Fotogalería. Inicio de la primera etapa de refinería Olmeca y mensaje por 4° Año del Triunfo Histórico, desde Paraíso, Tabasco",
+"Fecha": "05.07.2022"
+},
+{
+"Título": "Guardia Nacional se consolida con aceptación del pueblo, elementos y cuarteles: presidente; llama a afianzar corporación con reforma",
+"Fecha": "30.06.2022"
+},
+{
+"Título": "Habrá justicia y no se permitirá impunidad por el asesinato del periodista Antonio de la Cruz: presidente",
+"Fecha": "30.06.2022"
+},
+{
+"Título": "Gobierno federal hace ajustes en AICM para control de tráfico aéreo; Marina asume seguridad en instalaciones",
+"Fecha": "30.06.2022"
+},
+{
+"Título": "Refinería Olmeca será productiva desde 2023, asegura presidente",
+"Fecha": "30.06.2022"
+},
+{
+"Título": "Gobierno federal atiende caso de migrantes fallecidos en San Antonio, Texas: presidente",
+"Fecha": "30.06.2022"
+},
+{
+"Título": "Presidente ofrece apoyo a familias de migrantes fallecidos en Texas; tema será central en reunión con Biden el 12 de julio, afirma",
+"Fecha": "30.06.2022"
+},
+{
+"Título": "Gobierno resolverá déficit de médicos especialistas en Nayarit",
+"Fecha": "30.06.2022"
+},
+{
+"Título": "Avanza vacunación contra COVID-19 a niñas y niños con 146 mil 699 dosis aplicadas en 11 estados: Secretaría de Salud",
+"Fecha": "30.06.2022"
+},
+{
+"Título": "Gobierno federal respalda a la población de Nuevo León en materia de abasto de agua",
+"Fecha": "30.06.2022"
+},
+{
+"Título": "Presidente recibe en Palacio Nacional al basquetbolista Juan Toscano Anderson, campeón de la NBA",
+"Fecha": "30.06.2022"
+},
+{
+"Título": "Gobierno federal prepara decreto de protección del patrimonio cultural de México",
+"Fecha": "27.06.2022"
+},
+{
+"Título": "Rehabilitación del Fuerte de San Juan de Ulúa concluirá en diciembre, anuncia presidente",
+"Fecha": "27.06.2022"
+},
+{
+"Título": "Presidente llama a gobierno de Nuevo León y empresas a priorizar abasto de agua para la población",
+"Fecha": "27.06.2022"
+},
+{
+"Título": "Guerrero es el estado del país que recibe más inversión social, afirma presidente; inaugura Libramiento Poniente de Acapulco",
+"Fecha": "27.06.2022"
+},
+{
+"Título": "Gobierno federal amplía atención a personas con discapacidad en La Montaña de Guerrero; presidente firma convenio con Teletón",
+"Fecha": "27.06.2022"
+},
+{
+"Título": "Presidente presentará al gobierno de Estados Unidos propuesta de plan conjunto antiinflacionario",
+"Fecha": "27.06.2022"
+},
+{
+"Título": "Aumento del costo de refinería Olmeca está en el margen de lo autorizado por Pemex: presidente",
+"Fecha": "27.06.2022"
+},
+{
+"Título": "Presidente comparte con papa Francisco concepción sobre la paz; estrategia de seguridad no cambiará, afirma",
+"Fecha": "27.06.2022"
+},
+{
+"Título": "Apertura de instalaciones y archivos militares contribuirá a la justicia a víctimas de represión, afirma presidente",
+"Fecha": "27.06.2022"
+},
+{
+"Título": "Presidente reitera compromiso de enviar iniciativas de reforma electoral y de la Guardia Nacional para su discusión en Congreso de la Unión",
+"Fecha": "27.06.2022"
+},
+{
+"Título": "En curso, investigación para detener a responsables del asesinato de sacerdotes en Chihuahua, afirma presidente",
+"Fecha": "22.06.2022"
+},
+{
+"Título": "Presidente recibe en Palacio Nacional a comitiva de Samsung; han cumplido compromisos en refinería Olmeca, destaca",
+"Fecha": "22.06.2022"
+},
+{
+"Título": "Vestigios arqueológicos están protegidos en construcción del Tren Maya: INAH",
+"Fecha": "22.06.2022"
+},
+{
+"Título": "Contratación de médicos especialistas avanza; gobierno prepara estrategia para cobertura en zonas rurales",
+"Fecha": "22.06.2022"
+},
+{
+"Título": "Vacunación para niñas y niños de 5 a 11 contra COVID-19 está asegurada; llegarán dos millones de dosis esta semana",
+"Fecha": "22.06.2022"
+},
+{
+"Título": "México tiene más elementos para garantizar paz y tranquilidad, resalta presidente; robos y homicidios continúan en descenso",
+"Fecha": "22.06.2022"
+},
+{
+"Título": "Abasto de alimentos está garantizado: presidente; gobierno federal da seguimiento a acuerdo con IP para mantener precios",
+"Fecha": "22.06.2022"
+},
+{
+"Título": "Presidente felicita a Gustavo Petro por ganar elección de presidencia de Colombia",
+"Fecha": "22.06.2022"
+},
+{
+"Título": "En tiempo que resta a la administración se consolidará proyecto de transformación: presidente",
+"Fecha": "22.06.2022"
+},
+{
+"Título": "Banco del Bienestar resuelve necesidad de servicios financieros en comunidades apartadas: presidente",
+"Fecha": "22.06.2022"
+},
+{
+"Título": "Presidente refrenda compromiso de entregar fertilizantes gratuitos a productores; inaugura Banco del Bienestar en Ixtlahuaca",
+"Fecha": "18.06.2022"
+},
+{
+"Título": "Programas para el Bienestar benefician al 70 por ciento de las familias de México: presidente",
+"Fecha": "18.06.2022"
+},
+{
+"Título": "Tren Toluca-Ciudad de México se inaugurará en 2023, anuncia presidente",
+"Fecha": "18.06.2022"
+},
+{
+"Título": "Presidente supervisa ayuda a damnificados por Agatha; inicia entrega directa de enseres y recursos",
+"Fecha": "18.06.2022"
+},
+{
+"Título": "Presidente presenta decálogo de acciones contra el cambio climático en Foro de las Principales Economías sobre Energía y Clima",
+"Fecha": "18.06.2022"
+},
+{
+"Título": "Gobierno de México entregará fertilizantes gratuitos a 800 mil productores para impulsar autosuficiencia alimentaria",
+"Fecha": "18.06.2022"
+},
+{
+"Título": "Precio de combustibles no aumentará; subsidio al IEPS está garantizado, afirma presidente",
+"Fecha": "18.06.2022"
+},
+{
+"Título": "Corredor Interoceánico del Istmo de Tehuantepec detonará desarrollo económico del país, asegura presidente",
+"Fecha": "18.06.2022"
+},
+{
+"Título": "Presidente reafirma exhorto a Calica para detener extracción mineral en Quintana Roo; gobierno analiza comprarles terrenos",
+"Fecha": "18.06.2022"
+},
+{
+"Título": "Refinería Olmeca iniciará operaciones con periodo de prueba; en 2023 México será autosuficiente en combustibles, asegura presidente",
+"Fecha": "18.06.2022"
+},
+{
+"Título": "Trabajo coordinado y atención a las causas contribuyen a revertir violencia focalizada en estados, afirma presidente",
+"Fecha": "15.06.2022"
+},
+{
+"Título": "México y EE.UU. mantienen diálogo sobre energía y ambiente; presidente se reúne en Palacio Nacional con John Kerry",
+"Fecha": "15.06.2022"
+},
+{
+"Título": "Avanza contratación de médicas y médicos especialistas; más de 4 mil concursan por una plaza en el interior del país",
+"Fecha": "15.06.2022"
+},
+{
+"Título": "Niñas y niños de 5 a 11 años serán vacunados contra COVID-19; recibirán vacuna Pfizer",
+"Fecha": "15.06.2022"
+},
+{
+"Título": "Tianguis del Bienestar beneficiará a damnificados del huracán Agatha",
+"Fecha": "15.06.2022"
+},
+{
+"Título": "Regularización de autos extranjeros llega a Puebla; programa recauda 290 millones de pesos en 12 estados",
+"Fecha": "15.06.2022"
+},
+{
+"Título": "Compra de Altán Redes contribuirá a llevar internet hasta comunidades alejadas del país: presidente",
+"Fecha": "15.06.2022"
+},
+{
+"Título": "Avanza rehabilitación de refinería en Minatitlán, destaca presidente",
+"Fecha": "15.06.2022"
+},
+{
+"Título": "Tren Interoceánico del Istmo de Tehuantepec se concluirá este año, anuncia presidente; modernización de puertos impulsará comercio con Asia",
+"Fecha": "15.06.2022"
+},
+{
+"Título": "Presidente anuncia inversión en planta coquizadora y de licuefacción de gas en Oaxaca",
+"Fecha": "15.06.2022"
+},
+{
+"Título": "Habitantes de Oaxaca no están solos; apoyo a damnificados será ilimitado: presidente",
+"Fecha": "10.06.2022"
+},
+{
+"Título": "Presupuesto a familias y escuelas afectadas por Agatha se entregará sin intermediarios: presidente",
+"Fecha": "10.06.2022"
+},
+{
+"Título": "Presidente y gobierno de Querétaro acuerdan garantizar abasto de agua e impulsar desarrollo urbano",
+"Fecha": "10.06.2022"
+},
+{
+"Título": "Presidente reafirma llamado a integración de América con respeto a la soberanía de los pueblos",
+"Fecha": "10.06.2022"
+},
+{
+"Título": "Subsidio al IEPS se mantiene en beneficio de la economía del pueblo, afirma presidente",
+"Fecha": "10.06.2022"
+},
+{
+"Título": "Recursos de sorteo 260 de la Lotería se invertirán en obras en Sinaloa: presidente; «es ganar y ayudar», afirma",
+"Fecha": "10.06.2022"
+},
+{
+"Título": "Presidente reitera llamado a Estados Unidos para atender en conjunto causas de migración",
+"Fecha": "10.06.2022"
+},
+{
+"Título": "Aumenta abasto de medicamentos en Nayarit y Colima a través del modelo IMSS Bienestar",
+"Fecha": "10.06.2022"
+},
+{
+"Título": "Participan más de 10 mil médicas y médicos en Jornada nacional de reclutamiento y contratación de especialistas",
+"Fecha": "10.06.2022"
+},
+{
+"Título": "Presidente visitará municipios de Oaxaca afectados por huracán Agatha",
+"Fecha": "10.06.2022"
+},
+{
+"Título": "Presidente destaca participación ciudadana en elecciones; gobierno federal apoyará sin distinción a todos los estados, asegura",
+"Fecha": "06.06.2022"
+},
+{
+"Título": "Presidente no asistirá a la IX Cumbre de las Américas por exclusión a países; continente debe integrarse, reafirma",
+"Fecha": "06.06.2022"
+},
+{
+"Título": "Presidente supervisa construcción del Malecón de Villahermosa, Tabasco",
+"Fecha": "06.06.2022"
+},
+{
+"Título": "Gobierno de México atenderá daños a viviendas, campo y pequeños negocios en Oaxaca por huracán Agatha",
+"Fecha": "06.06.2022"
+},
+{
+"Título": "México realiza compromisos en materia de energía y cambio climático: presidente",
+"Fecha": "06.06.2022"
+},
+{
+"Título": "Presidente refrenda apoyo a comunidades afectadas por huracán Agatha",
+"Fecha": "06.06.2022"
+},
+{
+"Título": "Estabilidad económica, apreciación del peso y seguridad, condiciones que hacen atractivo a México para la inversión extranjera",
+"Fecha": "06.06.2022"
+},
+{
+"Título": "Presidente destaca colaboración de la Secretaría de Marina en proyectos de desarrollo y atención al pueblo en desastres naturales",
+"Fecha": "06.06.2022"
+},
+{
+"Título": "Gobierno federal atiende a personas damnificadas por huracán Agatha: presidente; apoyos se distribuirán con respeto a periodo electoral",
+"Fecha": "06.06.2022"
+},
+{
+"Título": "Avanza primera etapa de reclutamiento de médicos especialistas",
+"Fecha": "06.06.2022"
+},
+{
+"Título": "Médicos especialistas que trabajen en comunidades apartadas accederán a incentivos laborales: presidente",
+"Fecha": "31.05.2022"
+},
+{
+"Título": "Presidente recibe premio de la OMS por acciones para controlar consumo del tabaco; prohíbe con decreto venta de vapeadores",
+"Fecha": "31.05.2022"
+},
+{
+"Título": "Presidente recibe en Palacio Nacional a autoridades wixárikas; federación ayuda a solucionar conflictos agrarios",
+"Fecha": "31.05.2022"
+},
+{
+"Título": "Presidente garantiza condiciones de seguridad para el personal de salud",
+"Fecha": "31.05.2022"
+},
+{
+"Título": "Ajustes a la ley consolidarán Financiera para el Bienestar: presidente; operará con el Banco del Bienestar",
+"Fecha": "31.05.2022"
+},
+{
+"Título": "Presidente supervisa obras de infraestructura que beneficiarán a estados del norte del país",
+"Fecha": "31.05.2022"
+},
+{
+"Título": "Presidente constata inicio de Tercera Jornada Nacional de Sembrando Vida y supervisa obras carreteras",
+"Fecha": "31.05.2022"
+},
+{
+"Título": "Presidente resalta inversión de empresas estadounidenses en sector energético y producción de fertilizantes",
+"Fecha": "31.05.2022"
+},
+{
+"Título": "Estrategia Nacional de Seguridad se mantendrá por resultados positivos, afirma presidente en Sinaloa",
+"Fecha": "31.05.2022"
+},
+{
+"Título": "Sinaloa se suma a federalización del sistema de salud; aumentarán salarios del personal y equiparán hospitales",
+"Fecha": "31.05.2022"
+},
+{
+"Título": "Telecomm se convertirá en Financiera para el Bienestar, anuncia presidente",
+"Fecha": "26.05.2022"
+},
+{
+"Título": "2022 se posiciona como el año de mayor inversión extranjera en México: presidente",
+"Fecha": "26.05.2022"
+},
+{
+"Título": "Presidente rinde homenaje a Arnoldo Martínez Verdugo",
+"Fecha": "26.05.2022"
+},
+{
+"Título": "Regularización de personal y abasto de medicamentos metas que se construyen a través del IMSS Bienestar",
+"Fecha": "26.05.2022"
+},
+{
+"Título": "Presentan Jornada Nacional de Reclutamiento y Contratación de Médicos Especialistas para fortalecer sistema de salud",
+"Fecha": "26.05.2022"
+},
+{
+"Título": "Homicidio doloso y secuestro, a la baja en abril; estrategia de seguridad avanza con atención a las causas: presidente",
+"Fecha": "26.05.2022"
+},
+{
+"Título": "Gobierno federal explorará alternativas para llevar agua potable al pueblo seri: presidente",
+"Fecha": "26.05.2022"
+},
+{
+"Título": "Gobierno federal financiará construcción de caminos en la sierra de Sonora y Chihuahua, anuncia presidente",
+"Fecha": "26.05.2022"
+},
+{
+"Título": "Entrega de tierras, construcción del acueducto y de distritos de riego, compromisos prioritarios con pueblos yaqui, afirma presidente",
+"Fecha": "26.05.2022"
+},
+{
+"Título": "Presidente presenta Plan de justicia para el pueblo mayo en Etchojoa, Sonora",
+"Fecha": "26.05.2022"
+},
+{
+"Título": "Presidente se compromete con pueblo guarijío de Sonora a brindar atención integral",
+"Fecha": "20.05.2022"
+},
+{
+"Título": "Inician negociaciones en Tratado de Libre Comercio entre México y Reino Unido",
+"Fecha": "20.05.2022"
+},
+{
+"Título": "Recursos para fortalecer seguridad en Sonora están garantizados: presidente",
+"Fecha": "20.05.2022"
+},
+{
+"Título": "Sonora se incorpora a federalización de servicios de salud a través de IMSS Bienestar",
+"Fecha": "20.05.2022"
+},
+{
+"Título": "Ahorros por no permitir la corrupción se invierten en Programas para el Bienestar",
+"Fecha": "20.05.2022"
+},
+{
+"Título": "Fuerzas Armadas y policías recibirán aumento de salario: presidente",
+"Fecha": "20.05.2022"
+},
+{
+"Título": "Presidente anuncia convocatoria para contratación inmediata de médicos especialistas en el país",
+"Fecha": "20.05.2022"
+},
+{
+"Título": "Presidente y comunidad artística acuerdan acercar el cine a comunidades apartadas",
+"Fecha": "20.05.2022"
+},
+{
+"Título": "México tiene déficit de médicos especialistas: Secretaría de Salud",
+"Fecha": "20.05.2022"
+},
+{
+"Título": "IMSS Bienestar avanza en estados del país con mejoras a la infraestructura y aumento de personal",
+"Fecha": "20.05.2022"
+},
+{
+"Título": "Ciudad de México tiene buenos resultados en seguridad: presidente",
+"Fecha": "17.05.2022"
+},
+{
+"Título": "Gobierno de México dignifica labor de maestras y maestros con aumento salarial",
+"Fecha": "17.05.2022"
+},
+{
+"Título": "Estados del centro del país recibirán fertilizantes gratuitos para aumentar producción de autoconsumo, anuncia presidente",
+"Fecha": "17.05.2022"
+},
+{
+"Título": "Presidente celebra el Día de las maestras y los maestros; anuncia mejores condiciones salariales",
+"Fecha": "17.05.2022"
+},
+{
+"Título": "Fertilizantes y precios de garantía impulsan producción para autoconsumo: presidente",
+"Fecha": "17.05.2022"
+},
+{
+"Título": "Suma de voluntades ayudará a enfrentar inflación, afirma presidente en campaña de producción para el autoconsumo en Veracruz",
+"Fecha": "17.05.2022"
+},
+{
+"Título": "Presidente convoca a productores a fomentar autosuficiencia alimentaria; anuncia nuevos apoyos para ejidatarios",
+"Fecha": "17.05.2022"
+},
+{
+"Título": "Presidente llama a fomentar la producción para el autoconsumo como medida ante la inflación",
+"Fecha": "17.05.2022"
+},
+{
+"Título": "Federación apoya a Nuevo León en abasto de agua y seguridad; presidente se reúne con padres de Debanhi Escobar",
+"Fecha": "17.05.2022"
+},
+{
+"Título": "Presidente llama a la unidad de todos los países del continente; en Cumbre de las Américas no debe haber exclusión, afirma",
+"Fecha": "17.05.2022"
+},
+{
+"Título": "Avanzan investigaciones sobre casos de atentados a periodistas; presidente garantiza justicia a víctimas",
+"Fecha": "12.05.2022"
+},
+{
+"Título": "Gobierno de México garantiza seguridad en operaciones de AIFA y AICM, afirma presidente",
+"Fecha": "12.05.2022"
+},
+{
+"Título": "Presidente felicita a las madres de México en su día y refrenda respaldo de la Cuarta Transformación",
+"Fecha": "12.05.2022"
+},
+{
+"Título": "Avanza contratación de personal y mantenimiento de hospitales en Nayarit con programa IMSS Bienestar",
+"Fecha": "12.05.2022"
+},
+{
+"Título": "Presidente destaca resultados de gira en países Centroamericanos y del Caribe",
+"Fecha": "12.05.2022"
+},
+{
+"Título": "Presidente dialogará con agrónomos para impulsar autosuficiencia alimentaria",
+"Fecha": "12.05.2022"
+},
+{
+"Título": "México y Cuba fortalecen vínculos históricos mediante acuerdos; presidente reafirma llamado a levantar bloqueo contra la isla",
+"Fecha": "12.05.2022"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en su visita a Cuba",
+"Fecha": "12.05.2022"
+},
+{
+"Título": "México y Belice firman acuerdo para implementar Sembrando Vida en Belice",
+"Fecha": "12.05.2022"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en su visita a Belice",
+"Fecha": "12.05.2022"
+},
+{
+"Título": "Necesario atender fenómeno migratorio con cooperación para el desarrollo, afirma presidente en Honduras",
+"Fecha": "06.05.2022"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en su visita a Honduras",
+"Fecha": "06.05.2022"
+},
+{
+"Título": "Presidente anuncia ampliación de Sembrando Vida y Jóvenes Construyendo el Futuro en El Salvador; programas contuvieron la migración forzada, destaca",
+"Fecha": "06.05.2022"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en su visita a la República de El Salvador",
+"Fecha": "06.05.2022"
+},
+{
+"Título": "Presidente reafirma compromiso con Guatemala de atención a las causas del fenómeno migratorio",
+"Fecha": "06.05.2022"
+},
+{
+"Título": "Fotogalería. Gira del presidente Andrés Manuel López Obrador a países de Centroamérica y el Caribe",
+"Fecha": "06.05.2022"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en su visita a Guatemala",
+"Fecha": "06.05.2022"
+},
+{
+"Título": "Presidente conmemora 160 Aniversario de la Batalla de Puebla",
+"Fecha": "06.05.2022"
+},
+{
+"Título": "Discurso del presidente Andrés Manuel López Obrador en el 160 Aniversario de la Batalla de Puebla",
+"Fecha": "06.05.2022"
+},
+{
+"Título": "En informe Cero Impunidad destacan el mayor aseguramiento de cartuchos y armas en el país",
+"Fecha": "06.05.2022"
+},
+{
+"Título": "Presidente refrenda compromiso de erradicar robo de hidrocarburos en Puebla",
+"Fecha": "05.05.2022"
+},
+{
+"Título": "Presidente presenta plan antiinflacionario para garantizar precios justos en canasta básica",
+"Fecha": "05.05.2022"
+},
+{
+"Título": "Operativo ABRIL alcanza cobertura de 66 por ciento en aplicación de refuerzos",
+"Fecha": "05.05.2022"
+},
+{
+"Título": "México tendrá sistema de salud óptimo en primer trimestre de 2023: presidente; hay suficiencia presupuestal, afirma",
+"Fecha": "05.05.2022"
+},
+{
+"Título": "Presidente visita planta en Ciudad Sahagún donde se construirán 210 vagones para el Tren Maya",
+"Fecha": "05.05.2022"
+},
+{
+"Título": "Presentan avances del Tren Maya; Gobierno de México reporta acciones para el cuidado del ambiente y el patrimonio arqueológico",
+"Fecha": "05.05.2022"
+},
+{
+"Título": "Fotogalería. Día del Trabajo en la Refinería Dos Bocas “Olmeca”, desde Paraíso, Tabasco",
+"Fecha": "05.05.2022"
+},
+{
+"Título": "Trabajadores son fundamentales para el desarrollo de las naciones, afirma presidente en el Día del Trabajo",
+"Fecha": "05.05.2022"
+},
+{
+"Título": "Presidente celebra Día de las niñas y los niños",
+"Fecha": "05.05.2022"
+},
+{
+"Título": "Presidentes de México y Estados Unidos dialogan sobre relación bilateral",
+"Fecha": "05.05.2022"
+},
+{
+"Título": "Quintana Roo mantiene tendencia a la baja en delitos de impacto; avanza Operación Sargazo",
+"Fecha": "29.04.2022"
+},
+{
+"Título": "Inician preparativos rumbo al Mundial 2026 en México; jefe del Ejecutivo recibe a Gianni Infantino, presidente de la FIFA",
+"Fecha": "29.04.2022"
+},
+{
+"Título": "Presidente refrenda compromiso de garantizar derecho de trabajadores a vivienda digna",
+"Fecha": "29.04.2022"
+},
+{
+"Título": "Presidente reconoce impulso de legisladores a la transformación de México y defensa de los bienes de la nación",
+"Fecha": "29.04.2022"
+},
+{
+"Título": "Hay 19 detenidos por asesinatos de periodistas; presentan resultados de política Cero Impunidad",
+"Fecha": "29.04.2022"
+},
+{
+"Título": "Presidente presenta iniciativa de reforma electoral; incluye creación del INEC y reducción de gasto a partidos políticos",
+"Fecha": "29.04.2022"
+},
+{
+"Título": "Presidente promueve con empresarios estadounidenses inversiones e integración económica de América",
+"Fecha": "29.04.2022"
+},
+{
+"Título": "México registra aumento tributario de 3.5 por ciento en abril de 2022; ingresos ayudarán a consolidar empresa de litio",
+"Fecha": "29.04.2022"
+},
+{
+"Título": "Gobierno federal alista estrategia para contener impacto de inflación en alimentos; dialoga con IP para bajar precios al consumidor",
+"Fecha": "29.04.2022"
+},
+{
+"Título": "Presidente visita réplica de la Capilla Sixtina en la Ciudad de México",
+"Fecha": "29.04.2022"
+},
+{
+"Título": "La Escuela es Nuestra garantizará horario extendido y alimentos en planteles de educación básica",
+"Fecha": "26.04.2022"
+},
+{
+"Título": "Anuncian vacunación contra COVID-19 para niñas y niños de 12 años; declaran fin de epidemia en México",
+"Fecha": "26.04.2022"
+},
+{
+"Título": "Gobierno de México presentará plan de autosuficiencia para enfrentar inflación, anuncia presidente",
+"Fecha": "26.04.2022"
+},
+{
+"Título": "México y Estados Unidos mantienen relación de amistad: presidente; “nos van a tener que tratar con respeto”, afirma",
+"Fecha": "26.04.2022"
+},
+{
+"Título": "Presidente destaca triunfo de Emmanuel Macron en Francia",
+"Fecha": "26.04.2022"
+},
+{
+"Título": "Presidente propone integración comercial para el desarrollo equilibrado de América",
+"Fecha": "26.04.2022"
+},
+{
+"Título": "Presidente refrenda compromiso de hacer justicia en caso de Debanhi Escobar; ofrece colaboración del gobierno federal en indagatorias",
+"Fecha": "26.04.2022"
+},
+{
+"Título": "Presidente destaca inversión pública y privada en Veracruz; delitos de impacto van a la baja en la entidad",
+"Fecha": "26.04.2022"
+},
+{
+"Título": "México es un país libre, independiente y soberano, reafirma presidente",
+"Fecha": "26.04.2022"
+},
+{
+"Título": "Empresa pública que administrará litio será eficiente y contará con expertos, afirma presidente",
+"Fecha": "26.04.2022"
+},
+{
+"Título": "Presidente confirma fechas de gira de trabajo en Centroamérica y el Caribe",
+"Fecha": "21.04.2022"
+},
+{
+"Título": "Presidente dialoga con Jean-Luc Mélenchon, excandidato de izquierda a presidente de Francia",
+"Fecha": "21.04.2022"
+},
+{
+"Título": "Presidente celebra aprobación de la Ley Minera en el Senado",
+"Fecha": "21.04.2022"
+},
+{
+"Título": "Garantizar seguridad y bienestar es fundamental para vivir en paz: presidente; secuestro y homicidio doloso mantienen tendencia a la baja",
+"Fecha": "21.04.2022"
+},
+{
+"Título": "Gobierno reanudará trabajos para la consolidación del sistema de salud tras baja de pandemia de COVID-19 en México",
+"Fecha": "21.04.2022"
+},
+{
+"Título": "Presidente envía iniciativa de reforma a la Ley Minera para resguardar litio",
+"Fecha": "21.04.2022"
+},
+{
+"Título": "Presidente lamenta fallecimiento de la activista Rosario Ibarra de Piedra",
+"Fecha": "21.04.2022"
+},
+{
+"Título": "Litio será de los mexicanos: presidente; reafirma defensa de mineral estratégico",
+"Fecha": "21.04.2022"
+},
+{
+"Título": "Presidente confía en regularización de pagos de beneficiarios de Tandas para el Bienestar",
+"Fecha": "21.04.2022"
+},
+{
+"Título": "Presidente anuncia vacunación contra COVID-19 para niñas y niños menores de 14 años",
+"Fecha": "21.04.2022"
+}
+}
