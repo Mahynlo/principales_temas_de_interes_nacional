@@ -1,0 +1,82 @@
+[
+{
+"Título": "Presidente dialoga con Ana Botín, presidenta de Banco Santander",
+"Fecha": "18.04.2023"
+},
+{
+"Título": "Presidente convoca a padres de familia a prevenir consumo de drogas; Sedena reporta aseguramientos y destrucción de plantíos",
+"Fecha": "18.04.2023"
+},
+{
+"Título": "Información de las Fuerzas Armadas se protegerá por seguridad nacional: presidente",
+"Fecha": "18.04.2023"
+},
+{
+"Título": "Presidente se reúne en Palacio Nacional con gobernador de Puebla",
+"Fecha": "18.04.2023"
+},
+{
+"Título": "Obras complementarias en tramo 1 del Tren Maya superan 60 por ciento de avance",
+"Fecha": "18.04.2023"
+},
+{
+"Título": "Fonatur y Semarnat rinden informe de avances en protección de zonas arqueológicas y áreas naturales",
+"Fecha": "18.04.2023"
+},
+{
+"Título": "En ruta del Tren Maya, estudiantes de todos los niveles escolares acceden a becas: Secretaría de Bienestar",
+"Fecha": "18.04.2023"
+},
+{
+"Título": "Caminos pavimentados comunicarán todas las cabeceras municipales de Oaxaca: presidente",
+"Fecha": "18.04.2023"
+},
+{
+"Título": "Carretera Oaxaca-Puerto Escondido se inaugurará en julio, anuncia presidente",
+"Fecha": "18.04.2023"
+},
+{
+"Título": "Presidente reafirma compromiso de heredar sistema de salud de calidad en México; llama a jubilados a participar",
+"Fecha": "18.04.2023"
+},
+{
+"Título": "Presidente supervisa autopista de Oaxaca al Istmo de Tehuantepec",
+"Fecha": "15.04.2023"
+},
+{
+"Título": "Plan de Salud IMSS Bienestar opera en 20 estados; se trabaja para alcanzar cobertura nacional: presidente",
+"Fecha": "15.04.2023"
+},
+{
+"Título": "Antes de terminar administración, sistema de salud será de calidad y gratuito para todos, afirma presidente en Zacatecas",
+"Fecha": "15.04.2023"
+},
+{
+"Título": "Gobierno de México procura crecimiento justo en todo el país, afirma presidente",
+"Fecha": "15.04.2023"
+},
+{
+"Título": "Abasto de agua en zona conurbada de San Luis Potosí está garantizado, afirma presidente",
+"Fecha": "15.04.2023"
+},
+{
+"Título": "Presidente recibe visita de Jeremy Corbyn en Palacio Nacional",
+"Fecha": "15.04.2023"
+},
+{
+"Título": "Nuevo Laredo será sede de la Aduana Nacional, anuncia presidente",
+"Fecha": "15.04.2023"
+},
+{
+"Título": "Países atenderán tráfico de drogas y control de armas a partir de cooperación, no del sometimiento, afirma presidente",
+"Fecha": "15.04.2023"
+},
+{
+"Título": "Departamento de Justicia de Estados Unidos devolverá 4.8 mil millones de pesos desviados por exfuncionario de Coahuila",
+"Fecha": "15.04.2023"
+},
+{
+"Título": "COVID-19 registra 14 semanas de reducción estable en México",
+"Fecha": "15.04.2023"
+},
+]
